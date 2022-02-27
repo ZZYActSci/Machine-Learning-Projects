@@ -1,1 +1,1 @@
-# This folder contains projects done in Text Analysis
+# This folder contains projects done in Text Analytics
