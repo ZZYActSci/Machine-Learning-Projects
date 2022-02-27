@@ -1,0 +1,324 @@
+﻿name,identity,address,city,state,postal_code,latitude,longitude
+Depot Real,Depot,"677 Saint-Catherine St W M22, Montreal, Quebec H3B 5K0",Montreal,QC,H3B 5K0,45.503302,-73.570982
+Depot Real,Depot,"677 Saint-Catherine St W M22, Montreal, Quebec H3B 5K0",Montreal,QC,H3B 5K0,45.503302,-73.570982
+"""Copie Nova""",Customer,"""1015 Rue Sherbrooke O""",Montreal,QC,H3A 1G5,45.502164,-73.5762891
+"""Cafe Castel""",Customer,"""Best Western Ville-Marie Hotel & Suites, 1015 Rue Sherbrooke W""",Montreal,QC,H3A 1G5,45.5022486,-73.5768047
+"""Zawedeh Lebanese Fine Dining""",Customer,"""1015 Rue Sherbrooke Ouest""",Montreal,QC,H3A 1G5,45.5022486,-73.5768047
+"""Quesada Burritos & Tacos""",Customer,"""1001 Rue Sherbrooke Ouest""",Montreal,QC,H3A 1G5,45.50275677,-73.57620438
+"""Alba""",Customer,"""1112 Rue Sherbrooke O""",Montreal,QC,H3A 1G6,45.501354,-73.576773
+"""Club Athletique Sherbrooke""",Customer,"""1100 Sherbrooke Ouest, Suite 300""",Montreal,QC,H3A 1G7,45.5015953,-73.5765859
+"""Super Sandwich""",Customer,"""1115 Rue Sherbrooke Ouest""",Montreal,QC,H3A 1H3,45.50182093,-73.57690796
+"""Opiano""",Customer,"""1115 Rue Sherbrooke O""",Montreal,QC,H3A 1H3,45.5018212,-73.5769085
+"""Le MajesTh√©""",Customer,"""439 Avenue du Pr√©sident-Kennedy""",Montreal,QC,H3A 1J5,45.50687511,-73.57037846
+"""Blatter & Blatter""",Customer,"""375 President Kennedy Avenue""",Montreal,QC,H3A 1J5,45.5071708,-73.5701721
+"""Delta Hotels by Marriott Montreal""",Customer,"""475 Avenue du Pr√©sident-Kennedy""",Montreal,QC,H3A 1J7,45.50640705,-73.57133836
+"""Starbucks""",Customer,"""600 Avenue du Pr√©sident-Kennedy""",Montreal,QC,H3A 1J9,45.5052166,-73.5715673
+"""A&W""",Customer,"""655 Avenue du Pr√©sident-Kennedy""",Montreal,QC,H3A 1K1,45.5047528,-73.5725866
+"""La Prep""",Customer,"""395 Boulevard de Maisonneuve W""",Montreal,QC,H3A 1L6,45.5064781,-73.5699229
+"""Nippon Sushi""",Customer,"""1104 De Maisonneuve Boulevard W""",Montreal,QC,H3A 1M7,45.5007517,-73.5748517
+"""Campo""",Customer,"""1108 Boulevard de Maisonneuve O""",Montreal,QC,H3A 1M7,45.500593,-73.574691
+"""Soubois""",Customer,"""1106 Boulevard de Maisonneuve Ouest""",Montreal,QC,H3A 1M7,45.5005568,-73.5746235
+"""Nettoyeur Suzy""",Customer,"""1199 De-maisonneuve W""",Montreal,QC,H3A 1N4,45.5001203,-73.5757412
+"""Wrapcity Gourmet""",Customer,"""1201 Boulevard de Maisonneuve O""",Montreal,QC,H3A 1N6,45.5000012,-73.5759399
+"""Deville Dinerbar""",Customer,"""1425 Rue Stanley""",Montreal,QC,H3A 1P4,45.499686,-73.574147
+"""Mbco""",Customer,"""1447 Rue Stanley""",Montreal,QC,H3A 1P4,45.499839,-73.5746536
+"""YMCA""",Customer,"""1440 Rue Stanley""",Montreal,QC,H3A 1P7,45.4993984,-73.5749206
+"""Subway""",Customer,"""1430 Rue Stanley""",Montreal,QC,H3A 1P7,45.4995257,-73.5745618
+"""Brigade Pizzeria Napolitaine""",Customer,"""1428 Rue Stanley""",Montreal,QC,H3A 1P7,45.4996843,-73.5743949
+"""Marche Cosmopolitain""",Customer,"""1432 Stanley Rue""",Montreal,QC,H3A 1P7,45.4995304,-73.5745585
+"""Anton & James""",Customer,"""1414 Rue Stanley""",Montreal,QC,H3A 1P7,45.49941032,-73.57405988
+"""Firegrill Steakhouse & Bar""",Customer,"""1490 Rue Stanley""",Montreal,QC,H3A 1P7,45.5000119,-73.5751515
+"""Frank + Oak""",Customer,"""1420 Rue Stanley""",Montreal,QC,H3A 1P7,45.499549,-73.574326
+"""La Capannina""",Customer,"""2022 Rue Stanley""",Montreal,QC,H3A 1R6,45.50022,-73.575782
+"""Au Pain Dor√©""",Customer,"""1455 Rue Peel""",Montreal,QC,H3A 1S4,45.5003956,-73.573469
+"""Barbie Expo""",Customer,"""Cours Mont-Royal, 1455 Rue Peel""",Montreal,QC,H3A 1S5,45.5009023,-73.573669
+"""Starbucks""",Customer,"""1455 Rue Peel""",Montreal,QC,H3A 1S5,45.5002739,-73.5734243
+"""Yoko""",Customer,"""1455 Rue Peel, Suite 103""",Montreal,QC,H3A 1S5,45.5012066,-73.5740306
+"""Alexandre et Fils""",Customer,"""1454 Rue Peel""",Montreal,QC,H3A 1S8,45.5005139,-73.5742423
+"""Ferreira""",Customer,"""1446 Rue Peel""",Montreal,QC,H3A 1S8,45.5003193,-73.5741694
+"""Carlos & Pepes""",Customer,"""1420 Rue Peel""",Montreal,QC,H3A 1S8,45.5001559,-73.5736636
+"""Ry√∫""",Customer,"""1468 Rue Peel""",Montreal,QC,H3A 1S8,45.500548,-73.57432
+"""Caf√© Vasco Da Gama""",Customer,"""1472 Rue Peel""",Montreal,QC,H3A 1S8,45.5006345,-73.5745293
+"""Enso Yoga""",Customer,"""1470 Rue Peel, Tower B, Unit 100""",Montreal,QC,H3A 1T1,45.50066759,-73.57466767
+"""Art's Hair Coiffure""",Customer,"""1470 Rue Peel, Local 352""",Montreal,QC,H3A 1T1,45.50053,-73.57449
+"""Salon Pure""",Customer,"""1455 Rue Peel, Local 403""",Montreal,QC,H3A 1T5,45.5009023,-73.573669
+"""Les Cours Mont-Royal""",Customer,"""1455 Rue Peel""",Montreal,QC,H3A 1T5,45.5009023,-73.573669
+"""U Green T""",Customer,"""1455 Rue Peel, Suite 116""",Montreal,QC,H3A 1T5,45.501023,-73.573092
+"""Mat & Max Coiffure""",Customer,"""Les Cours Mont-Royal, 1455 rue Peel, Ste 104""",Montreal,QC,H3A 1T5,45.5009023,-73.573669
+"""Takara""",Customer,"""1455 Rue Peel""",Montreal,QC,H3A 1T5,45.5009023,-73.573669
+"""Spa Diva""",Customer,"""1455 Rue Peel""",Montreal,QC,H3A 1T5,45.5002828,-73.5734207
+"""Pizz√©ria N¬∞ 900 Peel""",Customer,"""2049 Rue Peel""",Montreal,QC,H3A 1T6,45.5014124,-73.5754872
+"""Residence Inn by Marriott Montreal Downtown""",Customer,"""2045 Rue Peel""",Montreal,QC,H3A 1T6,45.501465,-73.57542
+"""L'Orchid√©e de Chine""",Customer,"""2017 Rue Peel""",Montreal,QC,H3A 1T6,45.501227,-73.57495
+"""M4 Burritos Peel""",Customer,"""2053 Rue Peel""",Montreal,QC,H3A 1T6,45.50131981,-73.57521237
+"""Atti Restaurant""",Customer,"""2077 Rue University""",Montreal,QC,H3A 1T9,45.5047528,-73.5725866
+"""Spa Viva""",Customer,"""2085 Union Avenue""",Montreal,QC,H3A 1T9,45.5050441,-73.5720066
+"""Sushi Inbox""",Customer,"""2045 Avenue Union""",Montreal,QC,H3A 1T9,45.5049992,-73.5719117
+"""Best Western Ville-Marie Montreal Hotel & Suites""",Customer,"""3407 Peel Street""",Montreal,QC,H3A 1W7,45.502181,-73.576738
+"""Sofitel""",Customer,"""Rue Peel 3430""",Montreal,QC,H3A 1W8,45.5022614,-73.5773691
+"""Restaurant MKT""",Customer,"""2044 Rue Metcalfe""",Montreal,QC,H3A 1X8,45.5018608,-73.5750709
+"""Cheap Thrills""",Customer,"""2044 Rue Metcalfe""",Montreal,QC,H3A 1X8,45.5018608,-73.5750709
+"""Restaurant Sho-Dan""",Customer,"""2020 Metcalfe Rue""",Montreal,QC,H3A 1X8,45.501747,-73.574627
+"""Restaurant Saigon""",Customer,"""2044B Metcalfe Rue""",Montreal,QC,H3A 1X8,45.5019664,-73.5750599
+"""Gerts""",Customer,"""3480 Rue McTavish""",Montreal,QC,H3A 1X9,45.5036884,-73.5780869
+"""L'Hotel le Germain""",Customer,"""2050 Rue Mansfield""",Montreal,QC,H3A 1Y9,45.5024245,-73.5744202
+"""Laurie Rapha√´l""",Customer,"""2050, rue Mansfield""",Montreal,QC,H3A 1Y9,45.5024245,-73.5744202
+"""L'Asie Resto Bar""",Customer,"""1777 Avenue McGill College""",Montreal,QC,H3A 1Z4,45.5027828,-73.5723758
+"""Mat&Max""",Customer,"""677 Sainte Catherine Street W""",Montreal,QC,H3A 2A4,45.5030003,-73.570168
+"""Frite Alors""",Customer,"""680 rue Sainte-Catherine Ouest""",Montreal,QC,H3A 2A4,45.502824,-73.569811
+"""Just Pressed Juice Bar""",Customer,"""2020 Boulevard Robert-Bourassa""",Montreal,QC,H3A 2A5,45.5039643,-73.5722865
+"""Empire Montr√©al""",Customer,"""2020 Robert-Bourassa""",Montreal,QC,H3A 2A5,45.496571,-73.567449
+"""Vua""",Customer,"""2020 Boulevard Robert Bourassa, Suite 105""",Montreal,QC,H3A 2A5,45.5039621,-73.5723398
+"""Falafel Avenue""",Customer,"""2020 Robert-Bourassa Street""",Montreal,QC,H3A 2A5,45.5039621,-73.5723398
+"""Essence""",Customer,"""2001 University Rue""",Montreal,QC,H3A 2A6,45.5045579,-73.5717904
+"""Relocation Services Canada""",Customer,"""2001 rue de l'Universit√©""",Montreal,QC,H3A 2A6,45.504392,-73.571963
+"""Ecole Face""",Customer,"""3449 Rue University""",Montreal,QC,H3A 2A8,45.50608695,-73.57489812
+"""TD Canada Trust""",Customer,"""1401 Rue de Bleury""",Montreal,QC,H3A 2H5,45.50643828,-73.56699508
+"""Les Brigands""",Customer,"""1430-1470 Rue Balmoral""",Montreal,QC,H3A 2H5,45.50801588,-73.57019934
+"""Lucille's Oyster Dive Truck""",Customer,"""1451 Rue Balmoral""",Montreal,QC,H3A 2H5,45.507351,-73.5676924
+"""Cin√©ma Imp√©rial""",Customer,"""1432 Rue De Bleury""",Montreal,QC,H3A 2J1,45.5063909,-73.5678798
+"""Carr√© Confiseries""",Customer,"""1502 Rue de Bleury""",Montreal,QC,H3A 2J2,45.50685279,-73.5685101
+"""Tim Hortons""",Customer,"""1508 Rue de Bleury""",Montreal,QC,H3A 2J2,45.5068323,-73.5686988
+"""I-Tech System""",Customer,"""2201 Rue Bleury""",Montreal,QC,H3A 2K2,45.5082691,-73.5707733
+"""Le Bleury Bar √† Vinyle""",Customer,"""2109 De Bleury Street""",Montreal,QC,H3A 2K2,45.5079348,-73.570383
+"""Dans la C√¥te""",Customer,"""2123 Rue de Bleury""",Montreal,QC,H3A 2K2,45.5081271,-73.5705237
+"""Bistro Japonais Furusato""",Customer,"""2137 Rue De Bleury""",Montreal,QC,H3A 2K2,45.508242,-73.570643
+"""Hotel Omni Mont-Royal""",Customer,"""1050 Sherbrooke Street W""",Montreal,QC,H3A 2R6,45.5022019,-73.5759322
+"""Petit Opus Cafe-Bar-Hotel Omni Mont-Royal""",Customer,"""1050 Rue Sherbrooke Ouest""",Montreal,QC,H3A 2R6,45.5022019,-73.5759322
+"""Kalman Samuels et Associ√©s""",Customer,"""2000 Rue Peel, Bureau 205""",Montreal,QC,H3A 2W5,45.5009073,-73.5751638
+"""La Prep""",Customer,"""2000 Mansfield Street, Suite 104""",Montreal,QC,H3A 2Z6,45.5023284,-73.5739094
+"""Deli 500""",Customer,"""500 Sherbrooke Rue W""",Montreal,QC,H3A 3C6,45.5061379,-73.5720164
+"""Coiffure Pierre""",Customer,"""500 Rue Sherbrooke W""",Montreal,QC,H3A 3C6,45.50951503,-73.57149668
+"""Nu-Do""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3A 3E6,45.5027544,-73.5714715
+"""Paysanne Gelato""",Customer,"""Centre Eaton, 705 Rue Sainte-Catherine Ouest""",Montreal,QC,H3A 3E6,45.5015369,-73.571206
+"""My Little Cup""",Customer,"""2055 Boulevard Robert-Bourassa""",Montreal,QC,H3A 3H9,45.50403643,-73.57237555
+"""Medisys""",Customer,"""600 Boulevard de Maisonneuve  O, KPMG Tower - Etage 21""",Montreal,QC,H3A 3J2,45.504102,-73.5710036
+"""Copper Branch""",Customer,"""600 Boulevard de Maisonneuve Ouest""",Montreal,QC,H3A 3J2,45.5041009,-73.5710036
+"""Starbucks""",Customer,"""600 Boulevard de Maisonneuve O, Suite 102""",Montreal,QC,H3A 3J2,45.5041009,-73.5710036
+"""Koryo Barbecue Cor√©en""",Customer,"""Place Montreal Trust, 1500 Avenue McGill College, Suite A-026""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Jus Jugo Juice""",Customer,"""1500 Av McGill College""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Salon Odette Coiffure Hommes & Dames""",Customer,"""1500 Av McGill College""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Indigo""",Customer,"""1500 McGill Coll√®ge Avenue""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""NStyle Beauty Lounge""",Customer,"""1500 Avenue McGill College""",Montreal,QC,H3A 3J5,45.501996,-73.572295
+"""La Cure Gourmande""",Customer,"""1500 Avenue McGill College""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Lenscrafter""",Customer,"""1500 McGill College Av""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Jeff De Bruges""",Customer,"""1500 avenue McGill College, Place Montr√©al Trust""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Place Montreal Trust""",Customer,"""1500 Avenue McGill College""",Montreal,QC,H3A 3J5,45.5023339,-73.5722536
+"""Winners""",Customer,"""1500 Avenue McGill College""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Starbucks""",Customer,"""1500 McGill College Av""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Zara""",Customer,"""1500 Avenue McGill College""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""McDonald's""",Customer,"""1500 Boulevard McGill College, Local 025""",Montreal,QC,H3A 3J5,45.5023339,-73.5722536
+"""Sukiyaki""",Customer,"""1500 McGill College Av""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""Caf√© Indigo""",Customer,"""1500 Avenue McGill College""",Montreal,QC,H3A 3J5,45.5023402,-73.5723526
+"""L'Entrec√¥te Saint-Jean""",Customer,"""2022 Rue Peel""",Montreal,QC,H3A 3K1,45.5010275,-73.5752063
+"""Club Sportif MAA""",Customer,"""2070 Peel St""",Montreal,QC,H3A 3K1,45.5011564,-73.5759573
+"""Swiss International Air Lines""",Customer,"""1555 Peel Rue""",Montreal,QC,H3A 3L8,45.5006773,-73.5739686
+"""Librairie Paragraphe Bookstore""",Customer,"""2220 Avenue McGill College""",Montreal,QC,H3A 3P9,45.5032279,-73.5742008
+"""Restaurant Japote""",Customer,"""1000 Rue Sherbrooke O, Niveau Concourse""",Montreal,QC,H3A 3R3,45.5028466,-73.5752364
+"""Pharmaprix""",Customer,"""390 Rue Sainte-Catherine O""",Montreal,QC,H3B 1A1,45.505376,-73.567477
+"""Le Courtier""",Customer,"""362 Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 1A1,45.5060755,-73.5671535
+"""PappaRoti""",Customer,"""370 Rue Sainte-Catherine O""",Montreal,QC,H3B 1A2,45.5059631,-73.5672348
+"""Ashtanga Yoga Montr√©al""",Customer,"""372 Rue Sainte-Catherine, Suite 118""",Montreal,QC,H3B 1A2,45.5058167,-73.566904
+"""Belgo Building""",Customer,"""372 Sainte-Catherine Ouest""",Montreal,QC,H3B 1A2,45.50578792,-73.56716008
+"""Anger Ink""",Customer,"""391 Rue Sainte-Catherine O""",Montreal,QC,H3B 1A4,45.505753,-73.56775
+"""Cabaret Sex Appeal""",Customer,"""381 Sainte-Catherine Rue W""",Montreal,QC,H3B 1A4,45.5058341,-73.5675438
+"""Universel""",Customer,"""359 Rue Sainte-Catherine O""",Montreal,QC,H3B 1A4,45.50613707,-73.56735796
+"""Burger King""",Customer,"""500 Rue Sainte-Catherine O""",Montreal,QC,H3B 1A6,45.504193,-73.5683899
+"""√îmai Pr√™t-√†-Manger""",Customer,"""482 Rue Sainte-Catherine O""",Montreal,QC,H3B 1A6,45.50443531,-73.56851783
+"""H&M""",Customer,"""450 St. Catherine W""",Montreal,QC,H3B 1A6,45.5051764,-73.5676526
+"""Crazy Falafel""",Customer,"""521 Rue Sainte-Catherine W""",Montreal,QC,H3B 1A6,45.5045428,-73.5685214
+"""Best Buy""",Customer,"""470 Rue Ste. Catherine O""",Montreal,QC,H3B 1A6,45.50479419,-73.56788971
+"""Souvenirs Ephesus""",Customer,"""482 Rue Sainte-Catherine O""",Montreal,QC,H3B 1A6,45.504405,-73.5679752
+"""Chennai Express""",Customer,"""521 Rue Sainte-Catherine""",Montreal,QC,H3B 1B2,45.504585,-73.568611
+"""Fisshu""",Customer,"""537 Rue Sainte-Catherine O""",Montreal,QC,H3B 1B2,45.5044093,-73.5686413
+"""Olly Fresco's""",Customer,"""624 Rue Saint-Catherine Ouest, Unit 1620""",Montreal,QC,H3B 1B7,45.5035416,-73.5694342
+"""McDonald's""",Customer,"""625 Rue Sainte-Catherine O""",Montreal,QC,H3B 1B7,45.503861,-73.571346
+"""Diamant Regent""",Customer,"""625 Rue Sainte-Catherine O, Unit 1380""",Montreal,QC,H3B 1B7,45.5036853,-73.56932537
+"""Laprentania""",Customer,"""625 Rue Saint-Catherine O""",Montreal,QC,H3B 1B7,45.503756,-73.569529
+"""Dahlia""",Customer,"""625 St Catherine W.""",Montreal,QC,H3B 1B7,45.5033603,-73.5694191
+"""McDonald's""",Customer,"""640 Rue Sainte-Catherine O""",Montreal,QC,H3B 1B8,45.50327025,-73.56947473
+"""Club Super Contact""",Customer,"""690A Rue Sainte-Catherine O""",Montreal,QC,H3B 1B9,45.5027272,-73.5700736
+"""Kiehl's""",Customer,"""760, Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 1B9,45.5021341,-73.5707362
+"""Antoine Laoun Opticien""",Customer,"""700 Sainte-Catherine Rue W""",Montreal,QC,H3B 1B9,45.502593,-73.57025
+"""Dorothy Esthetique""",Customer,"""1117 Rue Sainte-Catherine Ouest, Suite 220""",Montreal,QC,H3B 1B9,45.4998243,-73.5734885
+"""Les 3 Brasseurs""",Customer,"""732 Rue Sainte-Catherine O""",Montreal,QC,H3B 1B9,45.50207172,-73.57076277
+"""Five Guys""",Customer,"""698 Rue Sainte-Catherine O""",Montreal,QC,H3B 1B9,45.5025101,-73.5701189
+"""Le Gym""",Customer,"""680 Rue Sainte-Catherine O, Suite 300""",Montreal,QC,H3B 1C2,45.5028241,-73.5698116
+"""Reuben's""",Customer,"""888 Rue Sainte-Catherine O""",Montreal,QC,H3B 1E2,45.5014953,-73.5711382
+"""Aveda""",Customer,"""880 Rue Sainte-Catherine O""",Montreal,QC,H3B 1E2,45.5016672,-73.5710824
+"""Basha Restaurants""",Customer,"""930 Rue Sainte-Catherine O""",Montreal,QC,H3B 1E2,45.5013472,-73.5710996
+"""Sports Experts""",Customer,"""930 Sainte-Catherine Rue W""",Montreal,QC,H3B 1E2,45.5013472,-73.5710996
+"""Lunetterie New Look""",Customer,"""930 Sainte-Catherine Rue W""",Montreal,QC,H3B 1E2,45.5013472,-73.5710996
+"""Jean Coutu""",Customer,"""980 Sainte-Catherine Rue W""",Montreal,QC,H3B 1E5,45.5006773,-73.5717794
+"""American Eagle Outfitters""",Customer,"""1035 St Catherine St W""",Montreal,QC,H3B 1H1,45.5001407,-73.5728117
+"""Off the Hook""",Customer,"""1021, Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 1H1,45.5004082,-73.5727303
+"""Roots - Centreville""",Customer,"""1025, rue Ste-Catharine Ouest""",Montreal,QC,H3B 1H1,45.5003339,-73.5728393
+"""Medical Spa Pari""",Customer,"""1001 Ste Catherine O""",Montreal,QC,H3B 1H2,45.5006812,-73.5722763
+"""Reuben's""",Customer,"""1116 Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 1H4,45.4996504,-73.573167
+"""Second Cup""",Customer,"""1122 Sainte-Catherine Rue W""",Montreal,QC,H3B 1H4,45.4995021,-73.5730679
+"""Club 649""",Customer,"""1112 Street Catherine Street W""",Montreal,QC,H3B 1H4,45.4997186,-73.5730945
+"""Saq""",Customer,"""1176, Rue Ste-Catherine W""",Montreal,QC,H3B 1H4,45.4989654,-73.5734131
+"""Alt√©rations Mike""",Customer,"""1118 Rue Sainte-Catherine O, Suite 200""",Montreal,QC,H3B 1H5,45.4996164,-73.5731044
+"""La Senza""",Customer,"""1133, Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 1H8,45.4995669,-73.5738082
+"""Bellini Chaussures""",Customer,"""1119, Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 1H8,45.499713,-73.573478
+"""Little Burgundy""",Customer,"""1127 Rue Sainte-Catherine O""",Montreal,QC,H3B 1H8,45.4996638,-73.5736884
+"""Spa Sahel""",Customer,"""1117 St. Catherine W, Ste 401""",Montreal,QC,H3B 1H9,45.4998243,-73.5734885
+"""Carsleys Whetstone & Company""",Customer,"""1117 Rue Sainte-Catherine Ouest, Bureau 700""",Montreal,QC,H3B 1H9,45.4998243,-73.5734885
+"""Wonder Travel""",Customer,"""1117 Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 1H9,45.4998243,-73.57349
+"""Communauto""",Customer,"""1117 Sainte-Catherine Rue W""",Montreal,QC,H3B 1H9,45.4998243,-73.5734885
+"""H & M""",Customer,"""1117 Saint-Catherine Rue W""",Montreal,QC,H3B 1H9,45.4998243,-73.5734885
+"""H√¥tel Chez Swann""",Customer,"""1444 Rue Drummond""",Montreal,QC,H3B 1K1,45.4991585,-73.5757003
+"""Basha - Drummond""",Customer,"""1202 Rue Sainte-Catherine O""",Montreal,QC,H3B 1K1,45.4986777,-73.5740546
+"""Green""",Customer,"""1408 Rue Drummond""",Montreal,QC,H3B 1K1,45.4989143,-73.5751911
+"""Sarah Souvenirs""",Customer,"""1172 Rue Sainte-Catherine O.""",Montreal,QC,H3B 1K1,45.4991096,-73.573564
+"""Forever 21""",Customer,"""1255 Ste Catherine Ouest""",Montreal,QC,H3B 1K1,45.49809121,-73.57507412
+"""Club Downtown""",Customer,"""1200 Rue Sainte-Catherine O""",Montreal,QC,H3B 1K1,45.4987579,-73.5741544
+"""iRepair MTL""",Customer,"""1184 Sainte Catherine W, Suite 101""",Montreal,QC,H3B 1K1,45.499005,-73.5739111
+"""Brandy Melville""",Customer,"""1188 Rue Sainte-Catherine O""",Montreal,QC,H3B 1K1,45.4988942,-73.5738454
+"""Joe's Panini""",Customer,"""1404 Rue Drummond""",Montreal,QC,H3B 1K1,45.49871645,-73.57465021
+"""Montreal Limo""",Customer,"""1168 Rue Sainte-Catherine O""",Montreal,QC,H3B 1K1,45.4991736,-73.5734953
+"""Mister Steer""",Customer,"""1198 Rue Sainte-Catherine O""",Montreal,QC,H3B 1K1,45.498739,-73.574025
+"""Le Vieux Dublin Pub & Restaurant""",Customer,"""636 Rue Cathcart""",Montreal,QC,H3B 1L9,45.5030644,-73.5684607
+"""Chop'd & Co""",Customer,"""1241 Avenue McGill College""",Montreal,QC,H3B 1M6,45.5017333,-73.5702325
+"""Tailleurs Universels Nettoyeurs""",Customer,"""1105 Rue Cypress""",Montreal,QC,H3B 1N3,45.4993312,-73.5717242
+"""Tim Hortons""",Customer,"""605 Boulevard Ren√©-L√©vesque O""",Montreal,QC,H3B 1P4,45.5029472,-73.5667678
+"""Microbytes""",Customer,"""625 Rene-Levesque Boul W""",Montreal,QC,H3B 1R2,45.50255,-73.5672174
+"""Gibson Salon Spa""",Customer,"""900 Boul Ren√©-L√©vesque Ouest""",Montreal,QC,H3B 1X8,45.500213,-73.568667
+"""Restaurant Ros√©lys""",Customer,"""900 Boulevard Ren√©-L√©vesque O""",Montreal,QC,H3B 1X8,45.5006176,-73.5677794
+"""Vargas""",Customer,"""690 Boulevard Ren√© Levesque O""",Montreal,QC,H3B 1X8,45.501487,-73.567383
+"""Lenny Slepchik, DDS""",Customer,"""800 Boul Rene-Levesque W, Suite 310""",Montreal,QC,H3B 1X9,45.49940654,-73.58058894
+"""Place Ville Marie""",Customer,"""1 Place Ville Marie""",Montreal,QC,H3B 2B6,45.5017901,-73.5686803
+"""Au Sommet Place Ville Marie""",Customer,"""3 Place Ville Marie""",Montreal,QC,H3B 2B6,45.502057,-73.569345
+"""WeWork - Place Ville-Marie""",Customer,"""3 Place Ville Marie, Suite 400""",Montreal,QC,H3B 2E3,45.502057,-73.569345
+"""Chop Crazy Cr√©ations""",Customer,"""895 Blvd de La Gauchetiere Ouest""",Montreal,QC,H3B 2M4,45.499918,-73.566459
+"""La Cage""",Customer,"""1212  Avenue des Canadiens-de-Montr√©al""",Montreal,QC,H3B 2S2,45.4963316,-73.569386
+"""R√¥tisserie St-Hubert""",Customer,"""1180 Avenue des Canadiens-de-Montr√©al""",Montreal,QC,H3B 2S2,45.4969715,-73.5692076
+"""St George's Anglican Church""",Customer,"""1101 Rue Stanley""",Montreal,QC,H3B 2S6,45.497699,-73.5694089
+"""N√ú Salon""",Customer,"""1236 Rue Stanley""",Montreal,QC,H3B 2S7,45.4988837,-73.5727143
+"""Chez Lien Plus""",Customer,"""1246 Rue Stanley""",Montreal,QC,H3B 2S7,45.4988988,-73.5728904
+"""Ka Lo Hin""",Customer,"""1240 Stanley Street""",Montreal,QC,H3B 2S7,45.498807,-73.5726573
+"""Kant Photo Studio""",Customer,"""1226 Rue Stanley""",Montreal,QC,H3B 2S7,45.4986869,-73.5724163
+"""Restaurant Santa Lucia""",Customer,"""1264 Rue Stanley""",Montreal,QC,H3B 2S7,45.499007,-73.573094
+"""Club La Boom""",Customer,"""1254 Rue Stanley""",Montreal,QC,H3B 2S7,45.498932,-73.5729443
+"""Cibo & Vino""",Customer,"""1228 Rue Stanley""",Montreal,QC,H3B 2S7,45.498713,-73.5724668
+"""Hakata Ramen""",Customer,"""1216 Rue Stanley, Suite 200""",Montreal,QC,H3B 2S7,45.49840618,-73.57269287
+"""Cafe Presto""",Customer,"""1244 Stanley Rue""",Montreal,QC,H3B 2S7,45.4988506,-73.5727489
+"""Chez Par√©e""",Customer,"""1258 Rue Stanley""",Montreal,QC,H3B 2S7,45.4989538,-73.5730001
+"""Salsatheque""",Customer,"""1220 Peel Rue""",Montreal,QC,H3B 2T6,45.499479,-73.5724709
+"""Peel Pub""",Customer,"""1196 Rue Peel""",Montreal,QC,H3B 2T6,45.4994033,-73.5719425
+"""La Belle Province""",Customer,"""1216 Rue Peel""",Montreal,QC,H3B 2T6,45.4995617,-73.5722151
+"""McLean's Pub""",Customer,"""1210 Rue Peel""",Montreal,QC,H3B 2T6,45.4995324,-73.5721956
+"""Nickels""",Customer,"""1200 Rue Peel""",Montreal,QC,H3B 2T6,45.49943502,-73.57211687
+"""Shawarmaz""",Customer,"""1206 Rue Peel""",Montreal,QC,H3B 2T6,45.4995232,-73.5720247
+"""Centre Infotouriste De Montreal""",Customer,"""1255 Rue Peel""",Montreal,QC,H3B 2T9,45.500298,-73.5717631
+"""Aerie by American Eagle""",Customer,"""1035 Rue Saint Catherine O""",Montreal,QC,H3B 2T9,45.5001407,-73.5728117
+"""Tim Hortons""",Customer,"""1257 Rue Peel""",Montreal,QC,H3B 2T9,45.4999692,-73.5724667
+"""Le Square Dorchester""",Customer,"""""",Montreal,QC,H3B 2T9,45.49959717,-73.570932
+"""Dunn's Famous""",Customer,"""1249 Rue Metcalfe""",Montreal,QC,H3B 2V5,45.500557,-73.5716254
+"""Location D'autos Et De Camions Avis""",Customer,"""1225 Rue Metcalfe""",Montreal,QC,H3B 2V5,45.5004743,-73.5711192
+"""Andies Barber Shop""",Customer,"""1245 Rue Metcalf""",Montreal,QC,H3B 2V5,45.50048546,-73.57157171
+"""Balsam Inn""",Customer,"""1237 Rue Metcalfe""",Montreal,QC,H3B 2V5,45.5004983,-73.5715054
+"""Dominion Square Tavern""",Customer,"""1243 Rue Metcalfe""",Montreal,QC,H3B 2V5,45.5005531,-73.5715421
+"""Avis Car & Truck Rental""",Customer,"""1225 Metcalfe Rue""",Montreal,QC,H3B 2V5,45.5004743,-73.5711192
+"""Club Athl√©tique Mansfield""",Customer,"""1230 Rue Mansfield""",Montreal,QC,H3B 2Y3,45.50085808,-73.57102854
+"""Kinatex Sports Physio""",Customer,"""1250 Rue Mansfield""",Montreal,QC,H3B 2Y3,45.5010903,-73.5713572
+"""Escondite""",Customer,"""1206 avenue Union""",Montreal,QC,H3B 3A7,45.5030179,-73.5680357
+"""Restaurant Le Leman""",Customer,"""1175 Boulevard Robert-Bourassa""",Montreal,QC,H3B 3A7,45.5023299,-73.5680289
+"""Les Glaceurs""",Customer,"""1245 Rue University""",Montreal,QC,H3B 3A8,45.5029294,-73.5691202
+"""Popeye's Suppl√©ments - Montr√©al""",Customer,"""1243A Boulevard Robert-Bourassa""",Montreal,QC,H3B 3A8,45.5030111,-73.5692038
+"""Helvetia Service des Montres""",Customer,"""1255 Boulevard Robert-Bourassa, Suite 1503""",Montreal,QC,H3B 3B6,45.50315944,-73.56935608
+"""East""",Customer,"""1250 Boulevard Robert-Bourassa""",Montreal,QC,H3B 3B8,45.5027146,-73.5693876
+"""Renaissance Montreal Downtown Hotel""",Customer,"""1250 Boulevard Robert-Bourassa""",Montreal,QC,H3B 3B8,45.50272258,-73.5693562
+"""New Balance Montreal""",Customer,"""654 Rue Sainte-Catherine O""",Montreal,QC,H3B 3B8,45.503335,-73.569645
+"""Koa Lua""",Customer,"""1212 Avenue Union""",Montreal,QC,H3B 3C4,45.503109,-73.5680105
+"""La Habanera""",Customer,"""1216 Avenue Union""",Montreal,QC,H3B 3C4,45.5032888,-73.5682873
+"""Second Cup""",Customer,"""1235 Rue Du Square-Phillips""",Montreal,QC,H3B 3E9,45.5040253,-73.5684808
+"""Mandy's""",Customer,"""1241 Rue de Place Phillips""",Montreal,QC,H3B 3E9,45.50411218,-73.56840364
+"""Soupebol Nouillerie""",Customer,"""1245 Du Square-Phillips Rue""",Montreal,QC,H3B 3E9,45.5040904,-73.5686095
+"""Le Grand Comptoir""",Customer,"""1225 Rue du Square-Phillips""",Montreal,QC,H3B 3E9,45.5040124,-73.5682018
+"""Il Focolaio""",Customer,"""1223 Rue du Square-Phillips""",Montreal,QC,H3B 3E9,45.5040151,-73.5681774
+"""Laitue & Go""",Customer,"""1 Place Ville Marie, Suite 11515""",Montreal,QC,H3B 3Y1,45.5017817,-73.567755
+"""L'Occitane""",Customer,"""1 Place Ville Marie""",Montreal,QC,H3B 3Y1,45.5017817,-73.567755
+"""Van Houtte Cafe""",Customer,"""1 Pl Ville Marie""",Montreal,QC,H3B 3Y1,45.5017817,-73.567755
+"""Fairmont The Queen Elizabeth""",Customer,"""900 Boulevard Ren√©-L√©vesque Ouest""",Montreal,QC,H3B 4A5,45.500451,-73.568115
+"""Ville de Montr√©al""",Customer,"""""",Montreal,QC,H3B 4A5,45.5013459,-73.5676026
+"""Educa Jeu""",Customer,"""100-1, Place Ville-Marie""",Montreal,QC,H3B 4A7,45.5017817,-73.567755
+"""Bar le S√©nateur""",Customer,"""1 Place du Canada""",Montreal,QC,H3B 4C9,45.497457,-73.567265
+"""Starbucks""",Customer,"""Rue Peel & Rue St-Antoine W""",Montreal,QC,H3B 4C9,45.4976532,-73.5674259
+"""Marriott Montr√©al Ch√¢teau Champlain""",Customer,"""1 Place du Canada""",Montreal,QC,H3B 4C9,45.49767672,-73.56743306
+"""Second Cup""",Customer,"""895 Rue De La Gauchetiere E""",Montreal,QC,H3B 4G1,45.499504,-73.566752
+"""Sushi Shop Gare Central 9123-1894 Que""",Customer,"""895 De La Gauchetiere Rue W""",Montreal,QC,H3B 4G1,45.499918,-73.566459
+"""Tim Hortons""",Customer,"""895 De La Gauchetiere Rue W""",Montreal,QC,H3B 4G1,45.499918,-73.566459
+"""Boulangerie Premiere Moisson""",Customer,"""895 De La Gauchetiere Rue W""",Montreal,QC,H3B 4G1,45.4999489,-73.5666644
+"""Rotisserie Fus√©e""",Customer,"""895 Rue de la Gaucheti√®re O, Local 90-413""",Montreal,QC,H3B 4G1,45.500116,-73.566093
+"""Bureau en Gros""",Customer,"""895 Rue de la Gaucheti√®re Ouest""",Montreal,QC,H3B 4G1,45.4996676,-73.5666243
+"""Saint Cinnamon""",Customer,"""895 Rue de la Gaucheti√®re O""",Montreal,QC,H3B 4G1,45.500119,-73.566098
+"""Dame Nature""",Customer,"""895 Rue De La Gauchet√®re Ouest""",Montreal,QC,H3B 4G1,45.499918,-73.566459
+"""Deli Planet""",Customer,"""895 Rue de la Gauchetiere O, # 54""",Montreal,QC,H3B 4G1,45.499918,-73.566459
+"""Gare Centrale""",Customer,"""895 Rue de la Gaucheti√®re O""",Montreal,QC,H3B 4G1,45.49998981,-73.56660183
+"""Budget Rent-A-Car Limited Garecentrale""",Customer,"""895 De La Gauchetiere Rue W""",Montreal,QC,H3B 4G1,45.499918,-73.566459
+"""Edo Japon""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Kernels Popcorn""",Customer,"""705 Street Catherine W""",Montreal,QC,H3B 4G5,45.50361,-73.571405
+"""Centre Eaton de Montr√©al""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027544,-73.5714715
+"""Jugo Juice""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Ardene""",Customer,"""Centre Eaton, 705 Rue Saint-Catherine Ouest, Suite 102""",Montreal,QC,H3B 4G5,45.5027544,-73.5714715
+"""Aqua Lunch Eaton""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Les Ongles Diva Nails""",Customer,"""705 Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Crepe De Gerard""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Tour De Jeux""",Customer,"""705 Rue Sainte-Catherine Ouest, Centre Eaton""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Amir Restaurant""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Couture Et Nettoyeur C E""",Customer,"""705 Sainte-Catherine Rue W""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Lush""",Customer,"""705 Rue Sainte-Catherine W""",Montreal,QC,H3B 4G5,45.5036067,-73.5713963
+"""Epilab""",Customer,"""Centre Eaton Montreal, 705, rue Sainte-Catherine Ouest""",Montreal,QC,H3B 4G5,45.5025024,-73.5706818
+"""A La Japonaise Experience Teriyaki""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Bubble Tease""",Customer,"""705 Sainte-Catherine Rue W""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Old Navy""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Kimchi""",Customer,"""705 Rue Sainte-Catherine O, Suite 1236""",Montreal,QC,H3B 4G5,45.5027544,-73.5714715
+"""Cultures""",Customer,"""705 Sainte-Catherine Ouest""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Franx Supreme""",Customer,"""705 Sainte Catherine Rue W""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Lindt Chocolate Shop - Montreal Eaton Centre""",Customer,"""705 Rue Sainte-Catherine Ouest, Unit # 2146A""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Kojax Souflaki""",Customer,"""705 Sainte-Catherine Rue W""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Yves Rocher""",Customer,"""705, rue Sainte-Catherine Ouest""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Tandori""",Customer,"""705 Rue Ste-Catherine Ouest""",Montreal,QC,H3B 4G5,45.50361,-73.571405
+"""Burger King""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.5027545,-73.5714715
+"""Squish""",Customer,"""705 Rue Sainte-Catherine O, Suite 2142-C""",Montreal,QC,H3B 4G5,45.5027544,-73.5714715
+"""La Belle Province""",Customer,"""705, Rue Sainte-Catherine""",Montreal,QC,H3B 4G5,45.5027342,-73.5708661
+"""Les Th√©s David""",Customer,"""705 Rue Sainte-Catherine O""",Montreal,QC,H3B 4G5,45.502629,-73.570647
+"""Mus√©e Gr√©vin Montr√©al""",Customer,"""705 Rue Sainte-Catherine Ouest, Bureau 5""",Montreal,QC,H3B 4G5,45.5024837,-73.5709615
+"""D'un Th√© √† l'Autre""",Customer,"""1155 Rue Metcalfe, Local 57""",Montreal,QC,H3B 4J5,45.5000013,-73.5704243
+"""Foodchain""",Customer,"""1212 Avenue McGill College""",Montreal,QC,H3B 4J8,45.5015898,-73.5708549
+"""Bistro le Cap Vert""",Customer,"""1200 Avenue McGill College""",Montreal,QC,H3B 4J8,45.5015523,-73.5704679
+"""Caf√© Humble Lion""",Customer,"""1204 Avenue McGill College""",Montreal,QC,H3B 4J8,45.501556,-73.5707796
+"""Ben & Jerry's""",Customer,"""1230 McGill College""",Montreal,QC,H3B 4J8,45.50183105,-73.57078552
+"""Montreal En Scene""",Customer,"""Aeroport Montreal - Trudeau, 1100 Boul Rene-Levesque""",Montreal,QC,H3B 4N4,45.4980779,-73.5702957
+"""Murale""",Customer,"""767-777 Boulevard Ren√©-L√©vesque Ouest""",Montreal,QC,H3B 4P6,45.50163269,-73.5691452
+"""Les Enfants Terribles""",Customer,"""1 Place Ville Marie""",Montreal,QC,H3B 4S6,45.501658,-73.568164
+"""Grayline Montreal""",Customer,"""1255 Peel Street, Suite 100""",Montreal,QC,H3B 4V4,45.4998,-73.572011
+"""Gray Line Montr√©al""",Customer,"""1255 Peel Street""",Montreal,QC,H3B 4V4,45.5002915,-73.5714218
+"""La Maison Simons""",Customer,"""977 Rue Sainte-Catherine O""",Montreal,QC,H3B 4W3,45.501296,-73.572112
+"""Salon Blue Earth""",Customer,"""977, Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 4W3,45.5012661,-73.57239
+"""Cin√©ma Banque Scotia""",Customer,"""977 Rue Sainte-Catherine""",Montreal,QC,H3B 4W3,45.50107,-73.572362
+"""Thai Express""",Customer,"""977 Sainte-Catherine Rue W""",Montreal,QC,H3B 4W3,45.5012661,-73.57239
+"""Valentine""",Customer,"""977 Rue Sainte-Catherine O""",Montreal,QC,H3B 4W3,45.5012661,-73.57239
+"""Chez Fourna""",Customer,"""977 Ste-Catherine""",Montreal,QC,H3B 4W3,45.5009429,-73.5721816
+"""Vie & Nam""",Customer,"""977 Rue St-Catherine W""",Montreal,QC,H3B 4W3,45.5010482,-73.5722406
+"""Grillades Torino""",Customer,"""977 Rue Sainte-Catherine O""",Montreal,QC,H3B 4W3,45.5012661,-73.57239
+"""Chop Crazy Creations""",Customer,"""977 Sainte-Catherine Rue W""",Montreal,QC,H3B 4W3,45.5012661,-73.57239
+"""P√¢tisserie Cocobun - Peel - Ste-Catherine""",Customer,"""977 Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 4W3,45.5012661,-73.57239
+"""Fiore Bistro""",Customer,"""977 Sainte-Catherine Rue W""",Montreal,QC,H3B 4W3,45.5012661,-73.57239
+"""LASIK MD""",Customer,"""1250 Boulevard Ren√©-Levesque O""",Montreal,QC,H3B 4W8,45.497451,-73.570966
+"""Restaurant Decca 77""",Customer,"""1077 Rue Drummond""",Montreal,QC,H3B 4X4,45.4973248,-73.5711434
+"""Madisons New York Grill & Bar""",Customer,"""1065 Rue Drummond""",Montreal,QC,H3B 4X4,45.4970504,-73.570466
+"""Hertz Rent A Car""",Customer,"""1073 Drummond Street""",Montreal,QC,H3B 4X4,45.4971234,-73.5706173
+"""Le Marly""",Customer,"""1065, cote du Beaver Hall""",Montreal,QC,H3B 5B4,45.5025003,-73.5646849
+"""1909 Taverne Moderne""",Customer,"""1280 Avenue des Canadiens-de-Montr√©al""",Montreal,QC,H3B 5G0,45.49601739,-73.57048985
+"""Runway Beauty Bar""",Customer,"""Complexe Les Ailes / Metro Level, 677 St-Catherine W, M24A""",Montreal,QC,H3B 5K4,45.50359485,-73.57097626
+"""Sephora""",Customer,"""677 Rue Sainte-Catherine W""",Montreal,QC,H3B 5K4,45.5032856,-73.5709829
+"""Complexe les Ailes""",Customer,"""677 Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 5K4,45.5032856,-73.5709829
+"""Saq""",Customer,"""677 Sainte-Catherine Rue W""",Montreal,QC,H3B 5K4,45.5032856,-73.5709829
+"""La Senza""",Customer,"""677, Rue Sainte-Catherine Ouest""",Montreal,QC,H3B 5K4,45.5032856,-73.5709829
+"""M0851""",Customer,"""677 Rue Sainte-Catherine O""",Montreal,QC,H3B 5K4,45.5032856,-73.5709829
+"""Fido Flagship Store""",Customer,"""1004 Rue Sainte-Catherine Ouest, Flagship Montreal""",Montreal,QC,H3B 5L2,45.50049,-73.5722922
+"""Hestia""",Customer,"""733 Rue Cathcart, Suite 6""",Montreal,QC,H3B 5L6,45.5021854,-73.5698679
+"""Atti Express""",Customer,"""733 Rue Cathcart""",Montreal,QC,H3B 5L6,45.5022001,-73.569893
+"""Java U""",Customer,"""1241 Mc Gill College""",Montreal,QC,H3B 5M1,45.5017333,-73.5702325
