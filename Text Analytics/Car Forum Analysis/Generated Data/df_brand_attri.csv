@@ -1,0 +1,2228 @@
+,Brand_Mentioned,Attribute_Mentioned
+2,"['cadillac', 'toyota']",['performance']
+4,"['cadillac', 'audi', 'bmw']","['purchase', 'performance', 'comfort', 'car parts']"
+7,"['cadillac', 'bmw', 'audi']","['performance', 'purchase']"
+9,"['bmw', 'cadillac']","['type', 'purchase']"
+14,"['cadillac', 'lexus', 'bmw']",['performance']
+15,['bmw'],['type']
+16,['bmw'],"['type', 'car parts']"
+29,['cadillac'],['performance']
+34,"['cadillac', 'bmw', 'honda']","['performance', 'car parts', 'comfort']"
+36,['cadillac'],['comfort']
+37,"['cadillac', 'bmw', 'polestar', 'audi', 'infiniti']","['purchase', 'performance']"
+39,"['bmw', 'cadillac']",['comfort']
+40,"['audi', 'lexus', 'cadillac']",['comfort']
+42,"['cadillac', 'bmw', 'infiniti']","['purchase', 'performance']"
+44,"['bmw', 'audi', 'lexus', 'cadillac', 'infiniti', 'acura']",['comfort']
+49,"['audi', 'bmw', 'cadillac']","['performance', 'comfort', 'car parts']"
+50,"['bmw', 'cadillac', 'acura']","['purchase', 'performance', 'car parts']"
+52,['cadillac'],"['car parts', 'performance', 'comfort']"
+53,"['cadillac', 'bmw']","['performance', 'comfort']"
+54,['bmw'],"['performance', 'comfort', 'car parts']"
+61,['cadillac'],['performance']
+65,['toyota'],['comfort']
+66,['cadillac'],"['performance', 'purchase']"
+67,"['bmw', 'cadillac', 'audi', 'infiniti']","['performance', 'purchase', 'type', 'comfort']"
+70,['bmw'],"['purchase', 'comfort']"
+71,"['cadillac', 'infiniti', 'bmw']","['performance', 'comfort']"
+72,"['bmw', 'audi']",['purchase']
+74,"['bmw', 'audi']",['purchase']
+75,['cadillac'],['purchase']
+76,['cadillac'],['purchase']
+79,"['bmw', 'cadillac', 'audi']",['type']
+85,"['audi', 'lexus']","['purchase', 'car parts']"
+87,['audi'],['purchase']
+88,"['cadillac', 'bmw', 'audi', 'infiniti', 'lexus']",['purchase']
+89,"['infiniti', 'lexus']",['purchase']
+90,"['audi', 'infiniti', 'lexus']","['purchase', 'type', 'performance', 'car parts']"
+92,"['acura', 'nissan']","['performance', 'comfort', 'purchase', 'car parts']"
+96,['bmw'],"['performance', 'comfort']"
+97,['polestar'],['comfort']
+99,['bmw'],['purchase']
+100,['bmw'],"['type', 'car parts', 'performance', 'purchase']"
+102,['bmw'],"['purchase', 'comfort']"
+117,['polestar'],"['performance', 'car parts']"
+125,['lexus'],['car parts']
+126,['lexus'],"['car parts', 'purchase']"
+131,['lexus'],['purchase']
+132,"['cadillac', 'bmw']","['type', 'comfort', 'purchase', 'performance']"
+134,"['bmw', 'cadillac']",['purchase']
+137,['bmw'],['purchase']
+144,['bmw'],['performance']
+159,"['bmw', 'cadillac', 'infiniti']","['performance', 'type', 'car parts', 'comfort']"
+160,"['toyota', 'bmw', 'infiniti']","['performance', 'type', 'car parts', 'purchase', 'comfort']"
+162,"['bmw', 'honda', 'infiniti']",['purchase']
+163,['bmw'],['purchase']
+164,['audi'],['comfort']
+167,['bmw'],['purchase']
+169,"['bmw', 'polestar']",['purchase']
+170,"['bmw', 'toyota']","['performance', 'purchase', 'type', 'car parts', 'comfort']"
+173,['bmw'],"['type', 'purchase']"
+176,['bmw'],['performance']
+178,"['bmw', 'honda', 'lexus', 'toyota']","['performance', 'purchase']"
+180,"['honda', 'bmw']",['purchase']
+181,"['cadillac', 'bmw']",['purchase']
+182,['bmw'],"['car parts', 'type', 'purchase']"
+184,['bmw'],"['type', 'performance']"
+185,['bmw'],"['purchase', 'performance']"
+187,"['bmw', 'honda', 'toyota', 'lexus']","['car parts', 'performance', 'purchase', 'type']"
+188,['bmw'],"['purchase', 'performance']"
+189,['bmw'],"['purchase', 'performance']"
+202,"['bmw', 'audi']","['performance', 'type', 'purchase']"
+203,['bmw'],"['performance', 'purchase', 'comfort']"
+206,['bmw'],"['performance', 'car parts', 'type']"
+207,['bmw'],['performance']
+209,['bmw'],['purchase']
+210,['bmw'],"['performance', 'purchase']"
+211,['bmw'],"['performance', 'comfort', 'type']"
+212,['bmw'],"['purchase', 'performance']"
+213,['bmw'],"['performance', 'purchase']"
+214,['bmw'],"['purchase', 'performance', 'type']"
+216,['bmw'],['purchase']
+217,"['bmw', 'audi', 'infiniti']",['performance']
+218,['bmw'],"['performance', 'type']"
+220,"['honda', 'toyota']",['type']
+221,"['cadillac', 'bmw']","['type', 'performance']"
+239,"['polestar', 'infiniti']",['comfort']
+251,"['audi', 'bmw', 'cadillac']","['purchase', 'comfort']"
+252,['cadillac'],['purchase']
+253,['lexus'],['purchase']
+254,['bmw'],['purchase']
+255,"['bmw', 'toyota', 'lexus']",['purchase']
+256,"['lexus', 'bmw', 'infiniti', 'acura']","['type', 'purchase']"
+257,"['lexus', 'infiniti', 'bmw', 'acura', 'pontiac', 'toyota']",['purchase']
+259,['lexus'],['purchase']
+260,"['lexus', 'infiniti']",['purchase']
+261,"['infiniti', 'acura']","['performance', 'type', 'purchase']"
+263,"['lexus', 'bmw']","['type', 'car parts', 'purchase']"
+264,['bmw'],['purchase']
+265,"['lexus', 'infiniti', 'toyota', 'bmw', 'acura']","['purchase', 'performance']"
+266,"['nissan', 'bmw', 'audi']","['purchase', 'performance']"
+273,"['audi', 'lexus']",['purchase']
+274,['audi'],['comfort']
+275,"['audi', 'lexus', 'bmw', 'polestar']","['comfort', 'performance', 'purchase', 'car parts']"
+277,['audi'],['comfort']
+279,['acura'],['purchase']
+281,['audi'],"['comfort', 'car parts', 'purchase']"
+284,"['acura', 'audi']","['comfort', 'type']"
+285,['acura'],['comfort']
+287,"['acura', 'bmw', 'polestar']","['type', 'performance', 'car parts']"
+288,"['audi', 'bmw']",['car parts']
+289,['audi'],"['car parts', 'performance']"
+292,['audi'],['car parts']
+295,['acura'],['purchase']
+299,"['acura', 'lexus', 'audi']",['performance']
+301,['polestar'],['performance']
+304,['bmw'],['performance']
+307,['infiniti'],['performance']
+319,['lexus'],"['type', 'car parts']"
+330,['acura'],"['purchase', 'performance', 'comfort']"
+331,['audi'],['performance']
+334,['lexus'],['performance']
+337,"['audi', 'bmw', 'nissan']","['performance', 'comfort']"
+340,"['bmw', 'lexus', 'audi']",['performance']
+341,"['volvo', 'bmw', 'audi', 'toyota', 'honda']","['performance', 'type', 'comfort', 'purchase', 'car parts']"
+344,['audi'],['type']
+346,['nissan'],['purchase']
+347,"['bmw', 'audi', 'lexus']","['purchase', 'performance']"
+348,['honda'],"['performance', 'type']"
+349,['bmw'],['performance']
+350,['lexus'],"['performance', 'type', 'comfort']"
+352,"['lexus', 'infiniti']",['purchase']
+354,['polestar'],"['comfort', 'performance']"
+355,"['bmw', 'audi', 'lexus']",['purchase']
+361,"['lexus', 'bmw']",['comfort']
+362,"['lexus', 'bmw']","['car parts', 'performance']"
+363,['bmw'],"['purchase', 'type']"
+364,['bmw'],['performance']
+367,"['nissan', 'bmw', 'lexus']","['type', 'performance', 'purchase']"
+369,['bmw'],['performance']
+370,['bmw'],['performance']
+371,"['bmw', 'acura']","['type', 'performance']"
+373,['bmw'],"['purchase', 'comfort']"
+375,['bmw'],"['comfort', 'purchase']"
+378,['lexus'],['purchase']
+379,['bmw'],['type']
+381,['bmw'],"['purchase', 'performance']"
+383,"['bmw', 'honda', 'audi', 'polestar']","['performance', 'car parts']"
+384,"['polestar', 'bmw']",['performance']
+385,['bmw'],['performance']
+388,"['lexus', 'bmw']","['performance', 'comfort']"
+395,['honda'],"['performance', 'type', 'purchase']"
+404,['nissan'],"['type', 'performance', 'purchase']"
+407,['lexus'],"['purchase', 'type']"
+409,['infiniti'],"['performance', 'type']"
+410,['honda'],"['type', 'performance', 'car parts', 'purchase']"
+415,['honda'],['purchase']
+416,['infiniti'],['performance']
+422,"['bmw', 'audi']",['type']
+424,"['bmw', 'audi']",['performance']
+428,['bmw'],"['type', 'car parts']"
+430,"['audi', 'lexus', 'nissan', 'bmw']","['purchase', 'type', 'car parts', 'performance']"
+431,"['nissan', 'lexus']","['car parts', 'performance']"
+433,"['audi', 'honda']","['purchase', 'performance', 'type', 'car parts', 'comfort']"
+434,['bmw'],"['comfort', 'performance', 'type', 'car parts']"
+435,['bmw'],['purchase']
+438,['polestar'],"['performance', 'type', 'purchase']"
+439,['bmw'],"['type', 'comfort']"
+440,"['toyota', 'honda', 'acura', 'audi']",['purchase']
+441,['acura'],['purchase']
+445,"['acura', 'audi', 'honda', 'toyota']",['purchase']
+446,['acura'],['type']
+449,"['lexus', 'bmw']","['performance', 'type', 'purchase']"
+452,['cadillac'],['performance']
+455,['cadillac'],"['type', 'performance']"
+458,['toyota'],['comfort']
+462,['mercedes'],['performance']
+468,['cadillac'],['type']
+470,['cadillac'],"['type', 'performance']"
+471,['cadillac'],['type']
+474,"['bmw', 'lexus']","['performance', 'car parts', 'purchase', 'type', 'comfort']"
+476,['bmw'],"['performance', 'type']"
+480,['nissan'],"['car parts', 'performance']"
+481,"['lexus', 'bmw']","['performance', 'type', 'comfort', 'purchase']"
+484,"['honda', 'cadillac']","['type', 'comfort', 'performance']"
+485,['bmw'],"['type', 'purchase']"
+489,['bmw'],"['type', 'performance', 'purchase']"
+490,['bmw'],"['type', 'performance']"
+491,['bmw'],"['performance', 'car parts']"
+492,['honda'],"['performance', 'type']"
+494,['bmw'],"['performance', 'type']"
+502,"['bmw', 'polestar']",['performance']
+509,['polestar'],['performance']
+511,['honda'],['performance']
+513,['bmw'],"['purchase', 'performance']"
+517,['bmw'],"['performance', 'purchase']"
+519,['bmw'],"['purchase', 'performance']"
+520,['polestar'],['purchase']
+526,['polestar'],"['performance', 'purchase']"
+538,['polestar'],['performance']
+547,['bmw'],['performance']
+548,['acura'],['purchase']
+549,['polestar'],['performance']
+553,['acura'],"['purchase', 'performance']"
+563,"['acura', 'bmw']","['performance', 'type']"
+565,['bmw'],"['type', 'car parts', 'performance']"
+571,['bmw'],['car parts']
+575,['bmw'],['performance']
+576,"['bmw', 'audi']","['performance', 'type']"
+580,['honda'],['performance']
+595,['bmw'],"['purchase', 'performance']"
+601,"['audi', 'honda']",['purchase']
+604,['polestar'],"['performance', 'comfort']"
+611,['acura'],['type']
+615,"['bmw', 'audi', 'acura', 'nissan', 'honda', 'toyota']","['purchase', 'type', 'car parts', 'performance']"
+616,"['audi', 'honda', 'bmw', 'cadillac']","['purchase', 'comfort', 'type']"
+618,"['audi', 'cadillac']","['performance', 'comfort', 'purchase']"
+620,['audi'],['purchase']
+621,['toyota'],['purchase']
+622,['bmw'],['type']
+623,['audi'],['type']
+627,"['audi', 'bmw', 'cadillac', 'infiniti']","['performance', 'purchase', 'car parts', 'type']"
+628,['audi'],"['type', 'performance']"
+629,['audi'],"['performance', 'type']"
+630,['audi'],"['comfort', 'performance']"
+631,"['polestar', 'bmw', 'acura']","['performance', 'purchase', 'type', 'car parts', 'comfort']"
+632,['infiniti'],"['car parts', 'type']"
+636,['lexus'],['comfort']
+638,['bmw'],['comfort']
+640,['bmw'],['type']
+641,['polestar'],['comfort']
+647,"['audi', 'lexus']","['purchase', 'performance', 'comfort']"
+648,"['audi', 'lexus']","['performance', 'purchase']"
+653,"['audi', 'lexus']",['comfort']
+655,"['audi', 'polestar', 'honda']",['performance']
+657,"['audi', 'acura', 'lexus']","['comfort', 'performance']"
+659,['infiniti'],"['performance', 'purchase', 'type']"
+660,['bmw'],"['performance', 'purchase', 'comfort']"
+661,['bmw'],"['purchase', 'performance', 'car parts']"
+665,"['audi', 'polestar', 'cadillac']","['performance', 'car parts']"
+678,['bmw'],"['type', 'performance', 'purchase']"
+680,"['polestar', 'bmw']","['type', 'car parts', 'performance']"
+682,['acura'],['performance']
+690,"['honda', 'infiniti', 'bmw', 'acura', 'audi']","['purchase', 'type', 'comfort', 'performance', 'car parts']"
+691,"['bmw', 'audi', 'acura', 'polestar']","['comfort', 'purchase']"
+692,"['acura', 'polestar', 'bmw']","['purchase', 'car parts', 'performance']"
+693,"['bmw', 'acura']","['performance', 'purchase', 'safety']"
+694,['bmw'],"['purchase', 'performance']"
+696,"['bmw', 'audi', 'lexus', 'cadillac', 'acura']","['comfort', 'purchase']"
+697,"['infiniti', 'acura', 'bmw']","['type', 'performance']"
+698,['bmw'],['purchase']
+699,['audi'],"['purchase', 'performance']"
+700,"['honda', 'audi', 'bmw', 'acura']","['performance', 'purchase']"
+701,['honda'],['purchase']
+702,"['honda', 'bmw']","['purchase', 'car parts']"
+704,"['bmw', 'audi']",['performance']
+706,"['honda', 'bmw']",['performance']
+709,"['toyota', 'lexus', 'infiniti', 'cadillac']","['purchase', 'type']"
+710,"['toyota', 'honda']",['purchase']
+712,"['infiniti', 'lexus']","['purchase', 'car parts']"
+713,"['infiniti', 'lexus', 'acura']","['purchase', 'performance']"
+714,"['lexus', 'infiniti']",['performance']
+715,['lexus'],['performance']
+717,"['infiniti', 'bmw', 'lexus']","['purchase', 'performance', 'car parts']"
+718,"['lexus', 'bmw']","['purchase', 'performance']"
+719,"['bmw', 'infiniti', 'lexus']","['purchase', 'performance']"
+720,"['infiniti', 'lexus', 'bmw']",['purchase']
+721,"['bmw', 'audi', 'lexus', 'toyota', 'acura', 'cadillac', 'infiniti', 'nissan', 'honda']",['purchase']
+722,['polestar'],['performance']
+723,"['infiniti', 'lexus', 'bmw', 'toyota']","['purchase', 'performance']"
+728,"['bmw', 'audi', 'infiniti', 'polestar']",['purchase']
+729,['toyota'],['purchase']
+730,"['polestar', 'bmw', 'lexus', 'infiniti', 'cadillac', 'toyota', 'audi', 'acura']","['purchase', 'performance', 'type', 'car parts', 'comfort']"
+732,"['toyota', 'infiniti', 'bmw', 'honda']",['purchase']
+733,"['toyota', 'cadillac']","['car parts', 'performance', 'type', 'purchase']"
+734,"['cadillac', 'toyota']",['car parts']
+735,"['toyota', 'polestar']","['type', 'comfort', 'car parts', 'performance']"
+736,['toyota'],"['performance', 'type']"
+739,"['toyota', 'lexus']","['type', 'car parts']"
+741,['bmw'],"['performance', 'comfort', 'purchase']"
+742,"['toyota', 'lexus', 'nissan', 'infiniti']",['performance']
+747,"['infiniti', 'acura']",['purchase']
+749,"['lexus', 'bmw', 'acura', 'infiniti', 'audi', 'toyota', 'honda']","['performance', 'car parts', 'purchase']"
+755,"['nissan', 'honda', 'toyota']","['type', 'car parts']"
+756,"['toyota', 'bmw']",['purchase']
+761,['bmw'],"['purchase', 'performance', 'comfort', 'type', 'car parts']"
+766,['infiniti'],['car parts']
+768,['bmw'],['purchase']
+769,['bmw'],"['purchase', 'comfort']"
+772,"['infiniti', 'acura', 'bmw']",['car parts']
+774,['infiniti'],"['car parts', 'purchase']"
+777,['polestar'],['performance']
+779,"['nissan', 'honda', 'infiniti']",['performance']
+782,"['audi', 'bmw']","['purchase', 'performance']"
+785,['audi'],['purchase']
+786,"['audi', 'bmw']","['performance', 'comfort']"
+788,"['audi', 'lexus']","['car parts', 'performance', 'purchase']"
+791,['audi'],"['performance', 'comfort']"
+792,['audi'],['type']
+794,"['audi', 'polestar']","['performance', 'comfort', 'purchase']"
+800,"['polestar', 'bmw', 'audi']","['car parts', 'performance', 'type', 'comfort']"
+803,"['audi', 'polestar', 'toyota', 'bmw']","['comfort', 'type', 'purchase', 'performance']"
+804,"['bmw', 'polestar', 'audi']","['type', 'performance']"
+805,"['lexus', 'toyota', 'audi', 'acura']","['comfort', 'purchase']"
+806,['cadillac'],"['purchase', 'performance', 'type']"
+809,"['cadillac', 'acura', 'bmw', 'audi']",['performance']
+810,"['cadillac', 'bmw', 'audi', 'lexus', 'toyota', 'infiniti', 'acura', 'honda']","['car parts', 'performance', 'type', 'interior', 'purchase']"
+812,"['bmw', 'audi', 'cadillac']",['purchase']
+813,"['cadillac', 'lexus']","['type', 'purchase']"
+814,['infiniti'],"['type', 'purchase', 'car parts']"
+815,"['bmw', 'honda', 'lexus']","['purchase', 'car parts', 'comfort']"
+816,"['acura', 'bmw']","['purchase', 'car parts', 'type']"
+817,['bmw'],['purchase']
+819,['bmw'],"['performance', 'purchase']"
+821,['nissan'],"['performance', 'type', 'purchase']"
+822,['nissan'],['performance']
+823,['bmw'],"['performance', 'purchase', 'type']"
+825,['audi'],"['type', 'purchase', 'car parts']"
+826,"['nissan', 'toyota', 'honda', 'lexus']","['purchase', 'performance']"
+827,['audi'],['purchase']
+828,['polestar'],"['purchase', 'performance', 'comfort']"
+831,['lexus'],"['car parts', 'performance', 'purchase']"
+833,['bmw'],"['purchase', 'performance']"
+835,"['lexus', 'bmw']","['performance', 'comfort']"
+836,"['bmw', 'lexus']",['purchase']
+837,['honda'],['performance']
+839,['bmw'],"['performance', 'type', 'purchase']"
+840,"['cadillac', 'nissan']","['performance', 'type']"
+842,['nissan'],"['interior', 'performance']"
+843,"['cadillac', 'polestar', 'bmw']","['car parts', 'performance']"
+844,['nissan'],"['performance', 'type']"
+848,['honda'],"['type', 'car parts']"
+849,"['toyota', 'acura', 'nissan']",['performance']
+853,"['bmw', 'audi']","['performance', 'purchase']"
+858,"['nissan', 'bmw', 'audi', 'lexus', 'cadillac', 'infiniti']",['purchase']
+859,['nissan'],"['car parts', 'type']"
+860,['nissan'],['performance']
+861,['nissan'],"['type', 'car parts', 'performance']"
+865,"['nissan', 'toyota']",['type']
+866,"['nissan', 'infiniti', 'toyota']","['type', 'comfort', 'performance', 'car parts', 'purchase']"
+867,['nissan'],"['type', 'performance', 'car parts']"
+868,['nissan'],"['type', 'performance', 'car parts']"
+871,"['bmw', 'polestar']",['purchase']
+872,"['honda', 'polestar', 'acura', 'bmw']",['comfort']
+873,['bmw'],['purchase']
+875,['bmw'],['purchase']
+876,['polestar'],['purchase']
+878,['bmw'],['purchase']
+879,['bmw'],['purchase']
+880,['audi'],['type']
+881,"['acura', 'lexus', 'cadillac', 'audi']","['car parts', 'performance']"
+884,['acura'],['type']
+886,"['acura', 'bmw', 'audi']","['performance', 'purchase', 'comfort', 'car parts']"
+888,"['acura', 'nissan']",['performance']
+894,"['audi', 'infiniti']","['purchase', 'performance', 'comfort']"
+897,['acura'],"['comfort', 'purchase', 'type']"
+898,['audi'],"['purchase', 'performance', 'type', 'comfort']"
+899,['audi'],['type']
+901,['polestar'],"['performance', 'comfort', 'type', 'car parts']"
+907,"['bmw', 'lexus']","['purchase', 'type']"
+908,"['acura', 'bmw', 'infiniti', 'audi', 'lexus', 'honda']","['performance', 'purchase', 'type', 'comfort']"
+909,"['acura', 'honda']","['comfort', 'performance']"
+910,"['lexus', 'bmw']",['performance']
+912,"['bmw', 'acura']","['type', 'performance']"
+913,['bmw'],"['purchase', 'type']"
+914,"['bmw', 'lexus']","['purchase', 'car parts']"
+916,"['lexus', 'bmw', 'audi', 'cadillac', 'toyota']","['type', 'performance', 'purchase', 'comfort']"
+917,['acura'],"['type', 'car parts']"
+920,"['polestar', 'lexus', 'honda', 'infiniti', 'audi']","['performance', 'type', 'comfort', 'purchase']"
+926,['acura'],"['performance', 'type', 'comfort']"
+927,['polestar'],"['performance', 'comfort', 'purchase']"
+928,['cadillac'],"['purchase', 'performance', 'type']"
+929,['bmw'],"['purchase', 'performance']"
+933,"['lexus', 'audi']","['purchase', 'performance', 'type']"
+936,"['bmw', 'cadillac']","['type', 'car parts']"
+937,"['lexus', 'acura']","['performance', 'purchase']"
+940,['polestar'],['performance']
+941,['bmw'],['performance']
+944,"['bmw', 'honda', 'acura']","['purchase', 'performance']"
+945,['infiniti'],"['purchase', 'performance']"
+946,"['bmw', 'lexus']","['performance', 'type', 'purchase']"
+949,['acura'],['purchase']
+953,"['infiniti', 'audi', 'acura', 'toyota', 'honda']","['purchase', 'car parts']"
+958,"['audi', 'bmw']","['type', 'purchase', 'performance']"
+959,"['infiniti', 'nissan', 'acura', 'honda']","['performance', 'type']"
+960,"['audi', 'bmw']","['performance', 'purchase']"
+965,"['acura', 'nissan']","['comfort', 'purchase']"
+968,['nissan'],['performance']
+971,['nissan'],['comfort']
+972,"['nissan', 'honda', 'bmw', 'acura']",['comfort']
+974,['nissan'],['type']
+976,"['nissan', 'audi']","['type', 'performance']"
+977,['nissan'],['performance']
+979,"['toyota', 'acura', 'infiniti', 'honda']","['purchase', 'car parts', 'type']"
+981,"['acura', 'infiniti']","['comfort', 'car parts', 'performance']"
+982,['acura'],"['purchase', 'performance', 'car parts']"
+983,['acura'],['car parts']
+984,['infiniti'],['purchase']
+985,['acura'],['performance']
+987,['acura'],['car parts']
+988,['acura'],['car parts']
+989,"['acura', 'infiniti', 'nissan', 'lexus', 'bmw', 'honda']","['car parts', 'performance']"
+990,"['acura', 'bmw']","['comfort', 'car parts']"
+991,['acura'],['car parts']
+992,"['infiniti', 'acura']",['car parts']
+994,['honda'],"['car parts', 'type']"
+995,"['acura', 'polestar', 'infiniti', 'toyota', 'lexus', 'nissan']","['type', 'car parts', 'performance']"
+996,"['acura', 'polestar', 'infiniti', 'toyota', 'lexus', 'nissan']","['type', 'car parts', 'performance']"
+999,['acura'],"['type', 'purchase']"
+1000,"['infiniti', 'acura', 'polestar', 'nissan']","['car parts', 'type']"
+1001,['acura'],"['car parts', 'type']"
+1002,"['infiniti', 'acura', 'lexus', 'bmw']",['purchase']
+1004,"['nissan', 'acura']","['car parts', 'performance']"
+1005,"['infiniti', 'acura', 'bmw']",['car parts']
+1006,"['acura', 'infiniti', 'nissan']","['purchase', 'type']"
+1007,"['nissan', 'toyota']","['purchase', 'interior', 'performance', 'type']"
+1008,"['infiniti', 'toyota', 'honda']",['performance']
+1009,['acura'],['car parts']
+1011,"['infiniti', 'acura', 'polestar']",['car parts']
+1014,['honda'],"['purchase', 'car parts', 'interior']"
+1022,['polestar'],"['performance', 'purchase']"
+1030,['honda'],['type']
+1033,"['lexus', 'audi', 'bmw', 'acura', 'cadillac']",['performance']
+1037,"['acura', 'honda', 'lexus', 'infiniti']",['car parts']
+1042,['acura'],['type']
+1044,['acura'],['car parts']
+1049,['acura'],['performance']
+1051,"['honda', 'lexus', 'acura']","['purchase', 'type', 'performance']"
+1054,"['acura', 'toyota']","['purchase', 'type']"
+1057,['acura'],['performance']
+1058,"['bmw', 'acura']",['car parts']
+1060,"['bmw', 'acura', 'lexus', 'infiniti']",['purchase']
+1062,['bmw'],"['comfort', 'purchase']"
+1064,['bmw'],['comfort']
+1066,"['honda', 'acura']","['purchase', 'performance']"
+1067,"['bmw', 'acura', 'infiniti', 'audi']","['type', 'comfort', 'purchase']"
+1068,"['bmw', 'audi']","['purchase', 'performance']"
+1069,['bmw'],['performance']
+1071,"['bmw', 'acura']",['performance']
+1075,['honda'],['performance']
+1076,"['honda', 'bmw']","['purchase', 'type', 'performance']"
+1078,"['bmw', 'nissan']",['performance']
+1079,"['acura', 'lexus']","['performance', 'type']"
+1080,"['acura', 'lexus']","['performance', 'type']"
+1081,"['bmw', 'acura', 'infiniti']","['type', 'performance']"
+1091,"['bmw', 'acura', 'toyota']","['performance', 'car parts']"
+1093,['bmw'],['car parts']
+1099,['infiniti'],"['performance', 'type']"
+1101,"['audi', 'bmw', 'lexus']","['type', 'purchase']"
+1102,"['bmw', 'audi', 'acura', 'infiniti', 'lexus']",['purchase']
+1104,"['audi', 'acura', 'infiniti']","['comfort', 'performance', 'purchase']"
+1106,"['bmw', 'audi', 'polestar']","['purchase', 'performance']"
+1107,"['polestar', 'toyota']","['performance', 'purchase']"
+1109,"['bmw', 'lexus', 'acura']","['purchase', 'performance']"
+1111,['acura'],"['performance', 'purchase']"
+1112,['lexus'],"['purchase', 'car parts']"
+1114,"['toyota', 'honda']","['type', 'performance']"
+1115,"['bmw', 'polestar']","['type', 'performance']"
+1121,"['bmw', 'polestar']","['purchase', 'performance', 'comfort']"
+1126,"['nissan', 'bmw']","['type', 'car parts', 'performance', 'purchase']"
+1130,['polestar'],"['performance', 'purchase', 'comfort']"
+1132,['acura'],"['performance', 'purchase', 'type']"
+1140,"['bmw', 'acura', 'lexus']",['purchase']
+1146,['acura'],"['performance', 'purchase', 'comfort']"
+1147,"['bmw', 'acura', 'lexus', 'honda', 'polestar']","['performance', 'car parts']"
+1156,"['acura', 'lexus', 'honda']","['comfort', 'performance']"
+1157,['bmw'],"['purchase', 'performance']"
+1159,"['lexus', 'toyota', 'honda']",['purchase']
+1162,"['bmw', 'polestar', 'audi', 'acura', 'lexus', 'infiniti']","['performance', 'comfort']"
+1164,"['bmw', 'honda']",['performance']
+1165,"['polestar', 'bmw']","['performance', 'type']"
+1168,"['bmw', 'lexus']",['performance']
+1170,['lexus'],['performance']
+1173,"['lexus', 'acura', 'audi', 'bmw']","['performance', 'type']"
+1174,"['polestar', 'bmw']",['performance']
+1175,"['bmw', 'acura']",['type']
+1178,"['polestar', 'lexus', 'audi', 'infiniti', 'bmw', 'acura']","['type', 'performance', 'purchase']"
+1182,"['bmw', 'audi']","['purchase', 'comfort']"
+1183,"['lexus', 'bmw', 'cadillac', 'honda']","['performance', 'purchase', 'comfort']"
+1184,['bmw'],"['purchase', 'performance']"
+1185,"['bmw', 'lexus']","['performance', 'purchase', 'type', 'car parts']"
+1193,['audi'],"['type', 'performance']"
+1194,['acura'],['type']
+1195,['infiniti'],"['performance', 'purchase']"
+1197,['infiniti'],"['purchase', 'type']"
+1198,['infiniti'],"['type', 'purchase']"
+1200,['infiniti'],['type']
+1201,"['honda', 'acura', 'bmw', 'lexus', 'toyota']","['performance', 'type', 'comfort', 'purchase']"
+1203,['audi'],['car parts']
+1205,"['bmw', 'polestar', 'audi']","['performance', 'car parts']"
+1208,"['infiniti', 'acura']","['type', 'purchase', 'performance']"
+1209,['infiniti'],"['performance', 'purchase']"
+1213,['acura'],['type']
+1215,"['acura', 'bmw', 'nissan']","['type', 'performance']"
+1216,['bmw'],['performance']
+1217,"['audi', 'lexus']","['type', 'purchase', 'comfort', 'performance']"
+1221,"['nissan', 'acura']","['type', 'performance', 'comfort']"
+1224,['honda'],"['car parts', 'performance']"
+1226,"['infiniti', 'bmw']","['purchase', 'car parts']"
+1246,['lexus'],"['purchase', 'car parts']"
+1247,['acura'],['type']
+1251,"['polestar', 'bmw', 'lexus']",['purchase']
+1255,['acura'],['type']
+1256,['acura'],['type']
+1259,['acura'],['performance']
+1270,"['acura', 'bmw']","['type', 'performance', 'purchase']"
+1271,"['cadillac', 'infiniti']","['performance', 'purchase']"
+1272,"['acura', 'audi', 'bmw']",['purchase']
+1274,"['acura', 'audi', 'bmw']","['comfort', 'purchase']"
+1277,['nissan'],['purchase']
+1278,"['lexus', 'audi', 'cadillac', 'nissan', 'infiniti']","['type', 'purchase']"
+1279,"['acura', 'infiniti', 'lexus']","['car parts', 'interior', 'comfort', 'performance', 'type']"
+1280,"['cadillac', 'nissan']","['type', 'performance', 'comfort', 'purchase']"
+1283,"['cadillac', 'bmw', 'infiniti', 'acura', 'audi', 'honda', 'polestar']","['performance', 'purchase']"
+1284,"['cadillac', 'bmw']",['purchase']
+1285,['audi'],['type']
+1287,['cadillac'],['performance']
+1288,['bmw'],['performance']
+1290,['cadillac'],"['performance', 'purchase']"
+1293,['cadillac'],['type']
+1296,['nissan'],['performance']
+1299,"['honda', 'lexus']",['performance']
+1301,"['audi', 'nissan', 'bmw', 'polestar', 'lexus', 'acura', 'cadillac']","['performance', 'purchase', 'type']"
+1303,"['audi', 'cadillac']","['comfort', 'purchase']"
+1304,['infiniti'],['purchase']
+1305,"['cadillac', 'toyota', 'audi']","['purchase', 'car parts', 'type']"
+1306,"['audi', 'cadillac']","['performance', 'car parts']"
+1307,['audi'],"['type', 'purchase']"
+1308,"['lexus', 'audi']","['comfort', 'purchase']"
+1309,"['audi', 'bmw']","['performance', 'comfort']"
+1313,"['cadillac', 'lexus']","['purchase', 'performance']"
+1317,"['audi', 'bmw', 'infiniti']","['purchase', 'performance']"
+1318,"['bmw', 'infiniti', 'lexus']",['purchase']
+1319,"['bmw', 'lexus', 'infiniti']",['purchase']
+1320,"['bmw', 'polestar', 'acura', 'audi']","['performance', 'purchase', 'type', 'car parts']"
+1321,['honda'],"['performance', 'purchase']"
+1323,['polestar'],"['performance', 'purchase']"
+1324,"['bmw', 'infiniti', 'toyota']",['performance']
+1325,"['polestar', 'bmw']","['performance', 'purchase']"
+1326,"['acura', 'polestar', 'lexus', 'infiniti']","['performance', 'purchase']"
+1330,"['acura', 'bmw', 'honda']","['performance', 'purchase']"
+1331,"['infiniti', 'acura', 'bmw']",['type']
+1332,['acura'],"['performance', 'type']"
+1335,['acura'],"['performance', 'type', 'car parts']"
+1337,['acura'],"['performance', 'type', 'car parts']"
+1339,"['acura', 'infiniti']",['purchase']
+1340,"['acura', 'audi', 'bmw', 'infiniti', 'honda']","['comfort', 'car parts', 'type', 'performance', 'purchase']"
+1341,"['acura', 'bmw']","['purchase', 'performance']"
+1342,"['bmw', 'lexus', 'acura']","['purchase', 'performance']"
+1343,"['acura', 'bmw']",['purchase']
+1345,['bmw'],['type']
+1349,"['acura', 'polestar', 'honda']",['type']
+1350,['lexus'],['comfort']
+1352,"['infiniti', 'acura']","['performance', 'purchase']"
+1359,"['polestar', 'bmw', 'honda']","['performance', 'type', 'car parts', 'comfort', 'purchase']"
+1360,['bmw'],['performance']
+1362,"['bmw', 'audi']","['performance', 'purchase', 'type']"
+1369,['bmw'],['performance']
+1370,['bmw'],['performance']
+1375,['nissan'],"['comfort', 'performance', 'purchase']"
+1381,"['nissan', 'lexus', 'bmw', 'audi', 'acura', 'cadillac']",['purchase']
+1382,['nissan'],"['type', 'comfort', 'car parts', 'performance', 'purchase']"
+1384,"['nissan', 'toyota']",['comfort']
+1387,"['nissan', 'cadillac', 'acura']","['purchase', 'type', 'comfort']"
+1389,"['toyota', 'nissan']","['comfort', 'type', 'performance']"
+1390,"['nissan', 'infiniti']","['type', 'purchase', 'performance']"
+1391,"['nissan', 'infiniti']",['purchase']
+1392,"['nissan', 'toyota', 'lexus']","['type', 'purchase', 'performance', 'comfort']"
+1394,"['nissan', 'toyota']",['type']
+1395,"['toyota', 'honda', 'nissan', 'ford', 'infiniti']",['type']
+1396,"['nissan', 'lexus', 'audi']",['type']
+1397,['nissan'],['comfort']
+1399,['nissan'],['performance']
+1405,"['nissan', 'toyota', 'audi', 'cadillac', 'bmw', 'lexus']","['comfort', 'type', 'purchase', 'performance']"
+1406,"['cadillac', 'bmw', 'acura', 'audi', 'honda']","['purchase', 'performance', 'type']"
+1412,['bmw'],['purchase']
+1420,"['infiniti', 'acura']","['purchase', 'type']"
+1425,"['infiniti', 'acura']",['purchase']
+1426,['nissan'],['performance']
+1428,"['audi', 'acura']",['performance']
+1431,"['bmw', 'audi', 'infiniti', 'lexus']",['type']
+1432,"['infiniti', 'acura', 'nissan']","['performance', 'type', 'purchase']"
+1433,['nissan'],['type']
+1434,['acura'],"['type', 'performance', 'car parts']"
+1436,['acura'],"['type', 'car parts', 'purchase']"
+1439,"['bmw', 'audi']",['purchase']
+1444,"['acura', 'honda']","['performance', 'type', 'purchase']"
+1446,"['acura', 'polestar', 'honda']","['type', 'performance', 'car parts', 'purchase']"
+1447,['honda'],"['type', 'car parts']"
+1449,['acura'],['performance']
+1450,['acura'],"['performance', 'type']"
+1452,['bmw'],"['type', 'car parts']"
+1453,"['acura', 'bmw']","['type', 'car parts', 'performance']"
+1455,"['acura', 'nissan', 'bmw']","['performance', 'type']"
+1458,"['audi', 'acura', 'bmw']","['performance', 'type', 'purchase', 'comfort']"
+1460,['lexus'],"['type', 'comfort', 'performance']"
+1461,['lexus'],['purchase']
+1463,"['infiniti', 'bmw']","['car parts', 'performance']"
+1468,"['nissan', 'bmw', 'infiniti']","['performance', 'purchase', 'type']"
+1469,['nissan'],"['comfort', 'purchase']"
+1470,['lexus'],"['car parts', 'comfort']"
+1479,"['acura', 'cadillac', 'lexus', 'audi', 'bmw']","['performance', 'car parts', 'type']"
+1480,['infiniti'],['purchase']
+1481,"['audi', 'lexus', 'toyota', 'bmw']",['purchase']
+1484,"['honda', 'toyota', 'acura', 'bmw']","['type', 'purchase']"
+1487,"['honda', 'toyota', 'acura']","['purchase', 'type']"
+1495,['toyota'],"['purchase', 'type', 'performance']"
+1503,['honda'],"['performance', 'type']"
+1504,['bmw'],"['performance', 'type']"
+1505,['polestar'],['performance']
+1506,['audi'],"['performance', 'comfort']"
+1511,['toyota'],"['performance', 'purchase']"
+1515,"['polestar', 'honda', 'acura', 'bmw']","['performance', 'purchase', 'comfort', 'car parts']"
+1519,"['acura', 'nissan', 'honda', 'infiniti']","['purchase', 'performance', 'type']"
+1521,"['acura', 'nissan']","['type', 'performance', 'purchase']"
+1522,"['acura', 'nissan', 'honda', 'infiniti']","['performance', 'type']"
+1525,"['infiniti', 'honda', 'nissan', 'acura']","['performance', 'car parts']"
+1526,['cadillac'],['purchase']
+1528,['cadillac'],"['purchase', 'performance']"
+1532,"['bmw', 'polestar']","['purchase', 'car parts']"
+1534,['infiniti'],"['purchase', 'performance']"
+1535,"['infiniti', 'polestar', 'acura', 'bmw']","['performance', 'comfort', 'purchase', 'car parts']"
+1536,['infiniti'],"['purchase', 'type']"
+1540,['bmw'],"['comfort', 'car parts']"
+1541,['bmw'],['car parts']
+1544,['bmw'],['car parts']
+1545,['honda'],['comfort']
+1548,['bmw'],"['purchase', 'performance', 'car parts', 'type', 'comfort']"
+1551,['bmw'],['car parts']
+1557,"['lexus', 'cadillac', 'audi']","['car parts', 'type', 'purchase', 'performance']"
+1559,"['lexus', 'toyota', 'acura', 'honda', 'audi', 'bmw']",['purchase']
+1560,['bmw'],['purchase']
+1564,"['acura', 'honda', 'cadillac', 'lexus']","['performance', 'purchase']"
+1567,"['bmw', 'audi']","['purchase', 'type', 'comfort']"
+1569,"['acura', 'polestar']","['purchase', 'performance']"
+1570,"['honda', 'acura', 'cadillac']",['type']
+1572,"['honda', 'acura', 'audi']","['purchase', 'comfort', 'car parts', 'type']"
+1573,"['acura', 'honda', 'toyota', 'audi']",['type']
+1574,"['acura', 'audi']",['type']
+1575,"['bmw', 'audi']","['purchase', 'performance', 'car parts', 'type']"
+1578,"['acura', 'lexus']","['performance', 'purchase']"
+1580,['bmw'],"['car parts', 'purchase']"
+1581,"['acura', 'lexus']",['purchase']
+1587,['bmw'],"['type', 'performance']"
+1588,"['bmw', 'infiniti']","['purchase', 'type']"
+1592,"['acura', 'bmw', 'audi', 'toyota', 'lexus', 'polestar', 'nissan']",['purchase']
+1593,"['acura', 'honda', 'audi', 'nissan']","['purchase', 'comfort']"
+1594,"['bmw', 'audi', 'toyota']","['purchase', 'type', 'performance']"
+1595,"['bmw', 'audi', 'polestar', 'infiniti']","['performance', 'purchase', 'type']"
+1597,"['acura', 'honda', 'lexus', 'toyota', 'cadillac']","['type', 'purchase', 'performance']"
+1599,"['cadillac', 'audi', 'acura', 'bmw']",['purchase']
+1601,"['acura', 'honda', 'lexus', 'cadillac', 'bmw']",['car parts']
+1605,['bmw'],"['purchase', 'performance']"
+1610,"['bmw', 'polestar']","['type', 'performance', 'comfort', 'car parts']"
+1616,"['cadillac', 'nissan', 'lexus', 'toyota']",['performance']
+1622,['audi'],['purchase']
+1623,"['bmw', 'cadillac', 'infiniti', 'audi']","['type', 'purchase']"
+1628,['bmw'],"['performance', 'type']"
+1629,['bmw'],['type']
+1632,['bmw'],"['type', 'performance']"
+1633,['bmw'],['comfort']
+1638,"['acura', 'audi', 'bmw', 'cadillac', 'infiniti']","['type', 'purchase', 'car parts', 'performance']"
+1641,"['audi', 'acura']","['performance', 'comfort']"
+1642,['bmw'],['car parts']
+1643,['bmw'],['comfort']
+1644,"['acura', 'honda']","['type', 'purchase', 'car parts', 'performance']"
+1648,['acura'],"['type', 'car parts']"
+1649,['audi'],['type']
+1651,['infiniti'],['purchase']
+1652,"['honda', 'bmw', 'audi']","['car parts', 'type']"
+1654,"['bmw', 'acura', 'infiniti', 'lexus', 'honda', 'nissan', 'toyota', 'audi', 'cadillac']",['purchase']
+1655,"['acura', 'honda']","['purchase', 'car parts', 'performance', 'type']"
+1657,"['acura', 'honda', 'bmw', 'polestar']","['type', 'car parts', 'purchase', 'performance']"
+1658,"['honda', 'acura']",['purchase']
+1659,"['infiniti', 'lexus', 'acura']",['type']
+1660,"['honda', 'acura', 'polestar']","['type', 'car parts', 'performance', 'comfort']"
+1663,['audi'],"['performance', 'type']"
+1669,"['acura', 'lexus', 'infiniti']","['type', 'purchase']"
+1671,['nissan'],"['type', 'purchase', 'performance']"
+1676,"['acura', 'audi', 'bmw', 'cadillac', 'infiniti']","['car parts', 'performance', 'comfort']"
+1678,['bmw'],"['performance', 'type']"
+1680,"['bmw', 'polestar']",['performance']
+1683,"['polestar', 'nissan', 'bmw']","['performance', 'type', 'comfort', 'car parts']"
+1684,"['nissan', 'bmw']","['car parts', 'purchase', 'comfort', 'performance', 'type']"
+1687,"['audi', 'acura', 'nissan']","['performance', 'type']"
+1690,"['audi', 'acura', 'infiniti', 'lexus', 'cadillac']","['purchase', 'type', 'performance', 'car parts', 'comfort']"
+1693,"['audi', 'bmw']","['purchase', 'performance']"
+1696,"['acura', 'bmw']",['performance']
+1697,"['bmw', 'polestar', 'acura']","['performance', 'car parts', 'type']"
+1703,"['bmw', 'acura']","['type', 'purchase']"
+1707,['audi'],"['type', 'car parts', 'purchase']"
+1708,['bmw'],['performance']
+1714,"['audi', 'acura']","['car parts', 'performance', 'type', 'purchase']"
+1715,['bmw'],['purchase']
+1716,"['polestar', 'bmw', 'audi', 'acura', 'honda']","['type', 'performance', 'purchase']"
+1717,"['audi', 'acura']","['comfort', 'purchase']"
+1718,"['acura', 'honda', 'infiniti', 'bmw']","['purchase', 'type', 'car parts']"
+1719,"['honda', 'acura']","['performance', 'purchase', 'comfort']"
+1721,"['honda', 'acura', 'audi', 'bmw']",['type']
+1724,"['bmw', 'acura']","['performance', 'car parts']"
+1726,"['acura', 'audi']","['performance', 'type', 'car parts']"
+1727,"['acura', 'audi']",['type']
+1728,"['acura', 'bmw', 'polestar', 'audi', 'honda']","['comfort', 'purchase', 'performance', 'type', 'car parts']"
+1729,"['audi', 'acura', 'lexus', 'bmw']","['purchase', 'type']"
+1730,"['bmw', 'subaru']","['purchase', 'performance']"
+1732,['audi'],['car parts']
+1733,"['audi', 'acura']","['purchase', 'performance', 'type']"
+1734,"['bmw', 'honda', 'lexus']",['performance']
+1736,"['acura', 'honda', 'audi']",['type']
+1737,"['honda', 'bmw']",['type']
+1738,"['honda', 'audi', 'acura']",['performance']
+1739,"['honda', 'bmw']",['car parts']
+1740,"['audi', 'acura', 'cadillac', 'infiniti', 'bmw']","['type', 'car parts', 'performance', 'purchase']"
+1741,"['audi', 'honda', 'acura', 'infiniti', 'lexus']","['performance', 'purchase', 'type']"
+1742,"['audi', 'acura', 'honda']",['type']
+1744,"['audi', 'acura', 'bmw']","['purchase', 'performance', 'type']"
+1745,"['polestar', 'acura', 'audi', 'lexus', 'honda']","['car parts', 'type', 'performance']"
+1746,"['acura', 'bmw', 'audi', 'infiniti']","['purchase', 'type', 'performance']"
+1747,"['audi', 'acura', 'bmw']","['type', 'performance', 'car parts']"
+1748,"['acura', 'bmw']","['type', 'car parts', 'performance']"
+1750,"['acura', 'audi', 'honda', 'infiniti', 'lexus', 'bmw']","['purchase', 'performance', 'car parts']"
+1751,"['infiniti', 'bmw', 'acura', 'honda']","['type', 'performance']"
+1753,"['honda', 'acura']","['performance', 'type']"
+1754,"['polestar', 'acura']",['performance']
+1755,"['acura', 'polestar', 'honda']","['type', 'purchase']"
+1759,"['acura', 'honda']","['performance', 'car parts', 'purchase', 'type']"
+1762,['acura'],['performance']
+1765,"['bmw', 'nissan', 'acura', 'infiniti']",['type']
+1766,"['acura', 'honda', 'bmw', 'audi', 'polestar', 'lexus', 'toyota']","['performance', 'type', 'comfort', 'purchase', 'car parts']"
+1767,"['acura', 'bmw', 'lexus', 'honda']",['type']
+1768,"['acura', 'bmw']","['type', 'car parts']"
+1769,['acura'],['type']
+1770,['acura'],"['type', 'performance']"
+1771,"['acura', 'bmw']","['type', 'car parts']"
+1775,['acura'],['type']
+1776,['acura'],['performance']
+1779,['lexus'],"['type', 'car parts', 'purchase']"
+1780,"['polestar', 'bmw']","['purchase', 'performance', 'comfort', 'car parts']"
+1781,"['polestar', 'toyota']","['performance', 'comfort', 'purchase']"
+1782,['bmw'],"['comfort', 'performance']"
+1785,['acura'],"['type', 'performance']"
+1786,['bmw'],['type']
+1787,['acura'],['purchase']
+1789,"['acura', 'audi', 'bmw', 'infiniti', 'cadillac']","['performance', 'purchase', 'comfort', 'type']"
+1790,['acura'],['type']
+1791,['acura'],['car parts']
+1792,"['acura', 'honda', 'audi', 'infiniti', 'bmw', 'cadillac']","['performance', 'type', 'car parts']"
+1798,"['acura', 'audi', 'bmw']","['purchase', 'performance']"
+1799,"['acura', 'audi', 'bmw']","['purchase', 'type']"
+1801,"['acura', 'infiniti', 'bmw']","['comfort', 'purchase']"
+1802,['acura'],"['purchase', 'performance']"
+1803,['acura'],['type']
+1804,"['acura', 'infiniti']",['type']
+1805,"['acura', 'audi', 'bmw']","['performance', 'purchase']"
+1806,"['audi', 'acura', 'lexus']","['comfort', 'purchase', 'type', 'car parts', 'performance']"
+1807,['bmw'],"['purchase', 'car parts']"
+1808,"['infiniti', 'bmw', 'polestar']","['performance', 'purchase', 'car parts', 'comfort', 'type']"
+1811,"['infiniti', 'bmw']","['purchase', 'performance']"
+1812,"['audi', 'bmw', 'acura', 'infiniti', 'lexus', 'honda']","['performance', 'type']"
+1813,"['bmw', 'infiniti']",['purchase']
+1814,"['audi', 'bmw']","['purchase', 'type']"
+1815,['bmw'],['purchase']
+1816,['bmw'],"['car parts', 'purchase']"
+1818,"['infiniti', 'bmw']","['type', 'purchase']"
+1819,"['acura', 'honda']","['performance', 'purchase']"
+1820,"['infiniti', 'bmw']","['purchase', 'type', 'car parts']"
+1821,"['bmw', 'infiniti', 'polestar']","['type', 'car parts']"
+1822,['bmw'],['performance']
+1824,['bmw'],"['purchase', 'performance']"
+1826,"['infiniti', 'acura', 'bmw', 'audi', 'polestar', 'lexus']","['purchase', 'performance', 'car parts', 'comfort']"
+1829,['acura'],['purchase']
+1831,['bmw'],"['performance', 'car parts']"
+1834,"['audi', 'bmw']",['purchase']
+1835,['acura'],"['performance', 'car parts']"
+1836,['bmw'],"['purchase', 'performance']"
+1837,['bmw'],['type']
+1839,['bmw'],['purchase']
+1840,['bmw'],"['purchase', 'performance', 'comfort']"
+1841,['acura'],['performance']
+1843,['honda'],"['comfort', 'purchase']"
+1846,['audi'],"['car parts', 'performance', 'comfort']"
+1847,['acura'],['car parts']
+1848,['bmw'],"['performance', 'car parts', 'comfort']"
+1849,['bmw'],['performance']
+1851,['bmw'],"['performance', 'purchase']"
+1852,['acura'],"['car parts', 'performance']"
+1854,"['nissan', 'infiniti']","['car parts', 'purchase']"
+1855,['honda'],['purchase']
+1858,['honda'],['car parts']
+1860,"['acura', 'polestar', 'audi']","['purchase', 'type', 'performance', 'car parts', 'interior']"
+1866,"['acura', 'infiniti', 'audi']","['purchase', 'car parts']"
+1867,['bmw'],['comfort']
+1870,['acura'],['purchase']
+1871,"['bmw', 'acura']",['purchase']
+1875,"['bmw', 'acura']",['car parts']
+1876,"['bmw', 'acura', 'audi']",['purchase']
+1880,"['bmw', 'audi']","['comfort', 'performance', 'type']"
+1881,"['bmw', 'acura']",['performance']
+1884,"['acura', 'bmw', 'audi']",['purchase']
+1885,['acura'],['car parts']
+1886,['acura'],['car parts']
+1888,"['acura', 'bmw']","['purchase', 'type', 'car parts', 'performance']"
+1889,['acura'],['purchase']
+1894,"['audi', 'acura']","['purchase', 'type']"
+1896,"['acura', 'audi']",['purchase']
+1897,"['acura', 'audi']","['performance', 'purchase']"
+1903,['audi'],['type']
+1911,['acura'],['performance']
+1915,"['acura', 'audi', 'bmw', 'infiniti']","['type', 'car parts', 'comfort', 'performance', 'safety']"
+1916,"['bmw', 'acura', 'cadillac']","['performance', 'purchase', 'type', 'car parts']"
+1917,"['acura', 'honda', 'audi']","['type', 'performance']"
+1918,"['honda', 'bmw']","['performance', 'car parts']"
+1921,"['acura', 'lexus', 'infiniti', 'honda']","['type', 'purchase', 'performance']"
+1922,['acura'],['performance']
+1925,"['audi', 'acura', 'honda']",['performance']
+1928,"['honda', 'audi', 'cadillac', 'acura', 'infiniti']","['purchase', 'type', 'performance', 'comfort']"
+1929,"['toyota', 'lexus', 'acura', 'bmw', 'infiniti', 'cadillac', 'honda', 'audi']",['purchase']
+1930,"['acura', 'bmw']",['type']
+1932,"['honda', 'audi']",['purchase']
+1933,['lexus'],['type']
+1937,"['cadillac', 'acura', 'polestar', 'audi', 'bmw']",['purchase']
+1942,['acura'],['safety']
+1943,"['acura', 'audi']",['comfort']
+1944,['acura'],['comfort']
+1952,['lexus'],"['comfort', 'type']"
+1955,"['acura', 'infiniti']",['purchase']
+1961,['audi'],"['performance', 'car parts', 'comfort']"
+1966,"['acura', 'honda', 'bmw']",['purchase']
+1973,['toyota'],"['car parts', 'performance', 'comfort']"
+1975,"['bmw', 'infiniti']","['type', 'performance']"
+1977,['bmw'],"['performance', 'type']"
+1980,['bmw'],"['performance', 'purchase']"
+1982,['bmw'],['type']
+1984,"['infiniti', 'bmw', 'acura', 'audi']",['performance']
+1985,['bmw'],['performance']
+1986,['bmw'],['performance']
+1989,['bmw'],"['performance', 'purchase', 'comfort']"
+1999,"['acura', 'bmw']",['type']
+2000,['bmw'],"['car parts', 'performance', 'purchase']"
+2001,['bmw'],['comfort']
+2006,"['infiniti', 'polestar', 'audi']","['purchase', 'type', 'comfort']"
+2009,"['infiniti', 'polestar']","['comfort', 'performance']"
+2013,"['audi', 'acura']","['comfort', 'performance', 'car parts', 'purchase']"
+2016,['bmw'],"['car parts', 'performance', 'purchase', 'comfort']"
+2017,"['bmw', 'audi', 'lexus']","['performance', 'purchase', 'comfort', 'car parts']"
+2020,"['infiniti', 'lexus', 'bmw']","['performance', 'type', 'purchase']"
+2021,"['infiniti', 'acura', 'cadillac', 'bmw']",['purchase']
+2023,['infiniti'],['purchase']
+2025,['infiniti'],['performance']
+2027,"['audi', 'acura']","['type', 'car parts']"
+2028,"['bmw', 'infiniti']","['performance', 'car parts', 'purchase']"
+2029,['bmw'],['performance']
+2030,"['bmw', 'acura', 'infiniti']","['purchase', 'comfort']"
+2034,"['bmw', 'lexus', 'honda']","['purchase', 'car parts', 'performance']"
+2038,"['bmw', 'polestar', 'infiniti']","['car parts', 'performance']"
+2039,"['bmw', 'infiniti']",['purchase']
+2041,"['bmw', 'polestar']","['performance', 'car parts', 'purchase']"
+2042,['bmw'],"['purchase', 'performance', 'car parts']"
+2043,['bmw'],['purchase']
+2049,['bmw'],['purchase']
+2051,"['infiniti', 'bmw']",['purchase']
+2057,"['bmw', 'infiniti']",['purchase']
+2058,"['infiniti', 'polestar', 'bmw']","['purchase', 'performance']"
+2059,"['infiniti', 'bmw']","['performance', 'car parts', 'purchase']"
+2060,"['bmw', 'lexus', 'infiniti', 'toyota']","['purchase', 'performance']"
+2061,"['bmw', 'infiniti']","['performance', 'purchase']"
+2062,"['bmw', 'infiniti']","['performance', 'purchase', 'car parts']"
+2063,['infiniti'],"['performance', 'car parts']"
+2064,['infiniti'],['performance']
+2065,['bmw'],['performance']
+2066,"['infiniti', 'bmw', 'audi', 'lexus']",['purchase']
+2067,['infiniti'],['purchase']
+2068,['infiniti'],"['performance', 'purchase']"
+2071,"['nissan', 'infiniti']",['purchase']
+2076,"['nissan', 'infiniti']",['purchase']
+2077,['infiniti'],"['purchase', 'performance']"
+2080,"['acura', 'audi']","['performance', 'purchase']"
+2082,"['bmw', 'polestar']",['performance']
+2083,"['bmw', 'audi']","['performance', 'comfort']"
+2084,"['audi', 'bmw', 'infiniti', 'acura']","['type', 'purchase', 'performance']"
+2085,"['audi', 'acura', 'bmw', 'cadillac']","['type', 'car parts', 'performance']"
+2086,"['acura', 'bmw', 'audi', 'cadillac']","['type', 'car parts', 'performance']"
+2087,"['bmw', 'cadillac']",['performance']
+2090,"['polestar', 'bmw']",['car parts']
+2091,['bmw'],['purchase']
+2094,"['audi', 'bmw', 'infiniti', 'lexus', 'acura', 'honda']","['performance', 'purchase', 'comfort']"
+2096,['bmw'],['performance']
+2097,['lexus'],"['comfort', 'type', 'purchase']"
+2099,['polestar'],"['type', 'performance', 'purchase']"
+2104,"['toyota', 'polestar']","['type', 'purchase']"
+2106,"['acura', 'bmw']","['purchase', 'performance']"
+2107,['acura'],['performance']
+2112,['bmw'],['purchase']
+2117,"['nissan', 'honda']",['purchase']
+2121,['polestar'],"['purchase', 'performance']"
+2123,['audi'],['purchase']
+2133,"['bmw', 'acura', 'honda']","['performance', 'purchase', 'car parts', 'type', 'comfort']"
+2134,['bmw'],['purchase']
+2143,"['audi', 'nissan', 'toyota']",['performance']
+2144,['bmw'],['performance']
+2148,"['lexus', 'audi', 'polestar', 'acura', 'infiniti', 'honda', 'bmw', 'cadillac']","['performance', 'type', 'purchase', 'comfort']"
+2149,"['bmw', 'lexus', 'infiniti', 'acura']",['performance']
+2150,"['acura', 'bmw']","['performance', 'purchase']"
+2151,"['acura', 'audi', 'honda', 'bmw', 'infiniti', 'lexus', 'cadillac']","['purchase', 'performance']"
+2152,['audi'],['type']
+2154,"['acura', 'bmw']","['car parts', 'performance']"
+2155,"['acura', 'bmw', 'honda']","['car parts', 'performance']"
+2157,"['audi', 'acura', 'bmw']",['performance']
+2158,['acura'],"['performance', 'car parts']"
+2159,"['acura', 'bmw', 'audi']",['performance']
+2160,"['acura', 'audi']",['purchase']
+2161,"['acura', 'cadillac']",['purchase']
+2162,['acura'],['purchase']
+2163,"['acura', 'honda']","['type', 'performance', 'purchase']"
+2164,"['acura', 'polestar']","['type', 'performance', 'car parts']"
+2165,"['polestar', 'acura', 'honda']",['performance']
+2169,['toyota'],['performance']
+2170,['bmw'],['purchase']
+2173,['bmw'],"['performance', 'purchase']"
+2174,['bmw'],"['performance', 'purchase']"
+2176,['bmw'],['purchase']
+2179,['bmw'],"['performance', 'purchase']"
+2180,"['bmw', 'acura']","['purchase', 'performance']"
+2182,['bmw'],['performance']
+2187,['audi'],"['purchase', 'performance']"
+2189,"['audi', 'bmw']","['performance', 'purchase']"
+2190,['bmw'],['purchase']
+2191,['bmw'],"['type', 'purchase']"
+2194,['bmw'],['performance']
+2196,['bmw'],['performance']
+2197,['bmw'],['performance']
+2202,"['bmw', 'polestar']","['purchase', 'performance']"
+2203,['infiniti'],['type']
+2204,['bmw'],['purchase']
+2205,['bmw'],['purchase']
+2206,"['polestar', 'infiniti']",['performance']
+2208,['acura'],['performance']
+2210,['honda'],['purchase']
+2213,"['acura', 'polestar', 'honda', 'bmw']","['type', 'performance', 'comfort', 'purchase']"
+2226,"['acura', 'lexus', 'audi', 'bmw', 'cadillac']","['performance', 'purchase', 'type']"
+2230,"['honda', 'acura']",['performance']
+2237,"['acura', 'audi', 'bmw', 'infiniti', 'cadillac', 'honda', 'hyundai']","['type', 'performance', 'comfort', 'purchase']"
+2238,"['nissan', 'acura']","['performance', 'car parts', 'purchase']"
+2239,['acura'],"['performance', 'purchase']"
+2240,['infiniti'],['performance']
+2241,"['honda', 'polestar', 'infiniti', 'bmw']",['type']
+2242,"['acura', 'honda', 'lexus']","['type', 'performance']"
+2244,"['audi', 'acura', 'lexus', 'honda']",['purchase']
+2246,"['audi', 'acura', 'honda']","['type', 'purchase']"
+2247,"['audi', 'honda']",['purchase']
+2248,"['audi', 'acura', 'honda']","['type', 'purchase']"
+2249,"['audi', 'acura', 'lexus']","['performance', 'purchase', 'type']"
+2252,['acura'],['performance']
+2254,['honda'],['car parts']
+2255,"['audi', 'acura', 'bmw', 'toyota', 'cadillac', 'infiniti', 'polestar']",['type']
+2256,"['honda', 'toyota']",['type']
+2257,['lexus'],"['purchase', 'performance']"
+2263,"['acura', 'honda']","['performance', 'purchase']"
+2265,"['acura', 'bmw']",['purchase']
+2266,"['bmw', 'acura']",['performance']
+2267,"['acura', 'bmw', 'infiniti', 'lexus']","['purchase', 'performance']"
+2268,['bmw'],['car parts']
+2269,"['acura', 'honda', 'bmw', 'infiniti', 'audi']","['performance', 'type', 'comfort', 'car parts', 'purchase']"
+2270,['bmw'],['car parts']
+2273,"['audi', 'bmw', 'polestar', 'infiniti', 'cadillac']","['performance', 'purchase']"
+2274,"['audi', 'bmw', 'infiniti', 'lexus']",['performance']
+2275,['acura'],['performance']
+2277,"['bmw', 'lexus']",['car parts']
+2278,"['bmw', 'lexus']",['type']
+2279,"['acura', 'honda']","['performance', 'purchase']"
+2282,"['acura', 'infiniti', 'audi', 'bmw', 'polestar', 'honda']","['car parts', 'comfort', 'performance', 'purchase']"
+2283,['acura'],"['performance', 'type']"
+2284,['acura'],"['purchase', 'performance']"
+2285,['bmw'],['comfort']
+2287,['bmw'],"['performance', 'comfort', 'type', 'car parts']"
+2288,"['infiniti', 'polestar', 'lexus', 'acura', 'bmw']","['type', 'performance', 'car parts']"
+2289,['lexus'],['performance']
+2292,['bmw'],"['type', 'car parts']"
+2296,"['acura', 'infiniti']",['performance']
+2297,"['acura', 'polestar', 'infiniti']","['performance', 'car parts', 'type']"
+2301,['polestar'],"['car parts', 'type', 'performance']"
+2302,['honda'],"['type', 'performance']"
+2304,['honda'],['type']
+2305,"['infiniti', 'bmw', 'lexus', 'acura']","['purchase', 'performance', 'car parts']"
+2309,"['acura', 'polestar', 'bmw', 'honda', 'lexus']","['car parts', 'performance', 'type', 'comfort', 'purchase']"
+2310,"['polestar', 'infiniti']","['type', 'purchase']"
+2311,['infiniti'],"['car parts', 'type']"
+2312,"['bmw', 'lexus', 'toyota']","['performance', 'purchase', 'type']"
+2319,['bmw'],"['type', 'performance', 'car parts']"
+2320,['acura'],['performance']
+2321,['honda'],['purchase']
+2322,['bmw'],['type']
+2325,"['bmw', 'polestar']","['type', 'car parts', 'performance']"
+2326,['bmw'],"['type', 'purchase']"
+2328,"['bmw', 'polestar']","['type', 'purchase']"
+2329,"['bmw', 'cadillac', 'acura', 'honda', 'audi']","['type', 'comfort', 'performance', 'purchase', 'car parts']"
+2330,['lexus'],"['type', 'comfort']"
+2331,['infiniti'],"['type', 'performance', 'purchase']"
+2332,"['infiniti', 'honda', 'polestar', 'acura']","['car parts', 'performance', 'comfort']"
+2334,"['honda', 'cadillac', 'bmw', 'lexus', 'toyota']","['comfort', 'performance', 'purchase']"
+2336,"['lexus', 'toyota']","['type', 'purchase', 'performance', 'comfort']"
+2338,"['audi', 'bmw']",['comfort']
+2340,['infiniti'],['purchase']
+2345,"['audi', 'lexus', 'bmw']","['purchase', 'type', 'car parts']"
+2346,['infiniti'],['comfort']
+2347,['infiniti'],"['purchase', 'performance']"
+2348,"['audi', 'infiniti', 'acura', 'bmw', 'honda']","['car parts', 'purchase', 'performance']"
+2349,"['audi', 'acura']",['performance']
+2351,['audi'],"['performance', 'comfort']"
+2352,['infiniti'],['performance']
+2356,['infiniti'],['performance']
+2357,['infiniti'],['performance']
+2361,['nissan'],['performance']
+2363,['bmw'],['performance']
+2364,"['acura', 'honda']","['performance', 'comfort']"
+2368,"['audi', 'acura', 'bmw']",['performance']
+2369,['audi'],['performance']
+2371,['polestar'],"['performance', 'comfort']"
+2372,"['polestar', 'infiniti']","['performance', 'comfort']"
+2378,['bmw'],['performance']
+2379,"['bmw', 'honda', 'toyota', 'nissan']",['type']
+2385,['nissan'],['performance']
+2394,"['bmw', 'infiniti']",['type']
+2398,['acura'],"['type', 'comfort', 'performance', 'purchase']"
+2403,"['infiniti', 'polestar']","['car parts', 'performance']"
+2404,['infiniti'],"['type', 'car parts']"
+2409,"['infiniti', 'bmw']",['performance']
+2413,"['polestar', 'infiniti']",['purchase']
+2414,"['bmw', 'acura']","['purchase', 'comfort', 'type', 'performance', 'car parts']"
+2416,['infiniti'],"['purchase', 'car parts', 'performance', 'comfort']"
+2426,"['polestar', 'bmw']",['purchase']
+2427,['bmw'],['performance']
+2431,['bmw'],"['purchase', 'car parts', 'performance', 'type']"
+2432,['bmw'],"['performance', 'purchase']"
+2435,['infiniti'],"['performance', 'purchase']"
+2436,['infiniti'],"['purchase', 'performance']"
+2439,['bmw'],['type']
+2443,['bmw'],['purchase']
+2445,['bmw'],['purchase']
+2448,"['bmw', 'audi', 'infiniti', 'acura']","['performance', 'type', 'purchase']"
+2451,['honda'],"['performance', 'purchase']"
+2453,['polestar'],['purchase']
+2454,"['polestar', 'honda', 'acura', 'bmw']","['performance', 'type', 'comfort', 'car parts']"
+2455,['bmw'],"['purchase', 'performance']"
+2456,"['audi', 'bmw']","['comfort', 'performance']"
+2457,['bmw'],"['performance', 'car parts']"
+2459,['audi'],['performance']
+2460,"['bmw', 'polestar']","['performance', 'purchase']"
+2461,"['bmw', 'audi']",['performance']
+2462,['bmw'],['purchase']
+2464,"['acura', 'bmw', 'polestar', 'honda']","['performance', 'comfort', 'safety', 'car parts']"
+2465,['audi'],['performance']
+2469,['bmw'],['type']
+2474,['bmw'],['performance']
+2476,"['honda', 'bmw', 'acura']","['performance', 'purchase']"
+2484,"['polestar', 'audi', 'bmw', 'infiniti']","['performance', 'purchase', 'type']"
+2492,['honda'],['performance']
+2493,['lexus'],"['purchase', 'performance']"
+2495,['audi'],['performance']
+2496,"['polestar', 'acura']",['type']
+2497,"['bmw', 'audi', 'polestar']",['performance']
+2501,['polestar'],['type']
+2503,"['honda', 'acura']",['type']
+2517,"['audi', 'polestar']","['car parts', 'purchase']"
+2529,['bmw'],['type']
+2532,['bmw'],"['performance', 'comfort', 'type']"
+2533,"['audi', 'infiniti', 'acura']","['type', 'performance', 'car parts', 'purchase']"
+2535,['bmw'],['performance']
+2538,['bmw'],"['type', 'car parts', 'performance']"
+2543,"['audi', 'bmw']","['purchase', 'performance', 'type']"
+2544,"['audi', 'infiniti', 'acura']","['purchase', 'performance']"
+2545,['bmw'],['type']
+2546,['bmw'],['type']
+2548,['bmw'],['performance']
+2549,['bmw'],['performance']
+2550,['bmw'],['performance']
+2551,"['bmw', 'audi', 'acura']",['performance']
+2553,['bmw'],['performance']
+2554,['audi'],['purchase']
+2555,"['audi', 'bmw']","['purchase', 'performance']"
+2561,"['acura', 'honda']","['type', 'performance', 'comfort', 'car parts']"
+2562,"['acura', 'honda']","['type', 'performance']"
+2563,['honda'],['type']
+2566,['acura'],['type']
+2567,"['acura', 'bmw']",['performance']
+2569,"['bmw', 'polestar']","['performance', 'comfort']"
+2571,['bmw'],"['type', 'car parts']"
+2573,['bmw'],['performance']
+2575,['acura'],['type']
+2577,['bmw'],['performance']
+2578,['audi'],['type']
+2585,"['bmw', 'acura']",['purchase']
+2586,['bmw'],"['type', 'purchase']"
+2589,['bmw'],['purchase']
+2590,['polestar'],"['purchase', 'car parts', 'performance']"
+2591,"['polestar', 'bmw', 'acura', 'honda']","['performance', 'type']"
+2592,"['polestar', 'bmw', 'audi']","['purchase', 'type']"
+2595,"['bmw', 'polestar']","['purchase', 'car parts', 'performance']"
+2596,"['polestar', 'bmw']",['purchase']
+2597,['bmw'],"['car parts', 'purchase']"
+2598,"['polestar', 'bmw', 'acura', 'honda']","['performance', 'type', 'purchase']"
+2600,['bmw'],"['car parts', 'purchase']"
+2602,"['bmw', 'polestar']","['purchase', 'type']"
+2607,['bmw'],"['purchase', 'performance']"
+2608,['polestar'],"['type', 'purchase']"
+2612,"['bmw', 'polestar']","['purchase', 'type']"
+2613,['bmw'],"['purchase', 'car parts']"
+2618,['polestar'],['performance']
+2621,['bmw'],"['type', 'performance']"
+2622,['bmw'],"['purchase', 'performance', 'type']"
+2623,['bmw'],['performance']
+2624,['bmw'],"['type', 'purchase', 'comfort', 'performance']"
+2625,['polestar'],"['purchase', 'car parts']"
+2629,"['bmw', 'polestar']","['performance', 'purchase']"
+2630,['bmw'],"['purchase', 'performance', 'type']"
+2631,"['audi', 'bmw']",['performance']
+2632,['bmw'],"['performance', 'type']"
+2633,"['bmw', 'audi']","['performance', 'purchase']"
+2635,['bmw'],['performance']
+2637,['bmw'],['purchase']
+2638,['bmw'],['car parts']
+2640,['bmw'],['performance']
+2641,['bmw'],['purchase']
+2642,['bmw'],"['purchase', 'type']"
+2643,"['bmw', 'polestar']","['performance', 'purchase']"
+2644,['bmw'],['purchase']
+2645,"['acura', 'bmw']",['performance']
+2651,['bmw'],"['type', 'purchase']"
+2652,['bmw'],['performance']
+2654,"['bmw', 'audi']","['purchase', 'performance']"
+2656,['bmw'],"['performance', 'purchase']"
+2657,"['toyota', 'bmw']","['purchase', 'type', 'performance']"
+2659,['polestar'],"['purchase', 'performance']"
+2660,['bmw'],"['purchase', 'performance']"
+2664,['bmw'],['purchase']
+2665,['bmw'],"['purchase', 'performance']"
+2666,['nissan'],"['performance', 'comfort']"
+2673,['bmw'],['purchase']
+2676,['bmw'],['car parts']
+2693,['bmw'],"['performance', 'purchase']"
+2696,"['audi', 'bmw']","['purchase', 'performance']"
+2698,"['bmw', 'acura', 'honda', 'infiniti']","['purchase', 'performance', 'type', 'car parts']"
+2699,"['bmw', 'acura', 'infiniti']",['purchase']
+2700,['lexus'],['type']
+2701,"['lexus', 'honda', 'toyota', 'bmw']","['purchase', 'performance']"
+2703,['nissan'],['car parts']
+2708,['acura'],['purchase']
+2711,['bmw'],"['type', 'purchase']"
+2712,"['cadillac', 'polestar']",['purchase']
+2713,"['bmw', 'infiniti']",['purchase']
+2714,['bmw'],['purchase']
+2717,['audi'],['purchase']
+2730,['bmw'],"['performance', 'type']"
+2731,['bmw'],['purchase']
+2734,['acura'],"['purchase', 'comfort', 'performance', 'car parts']"
+2735,['bmw'],['car parts']
+2736,['bmw'],"['type', 'performance', 'purchase']"
+2740,"['bmw', 'acura']",['performance']
+2741,"['acura', 'audi']","['type', 'car parts']"
+2742,['bmw'],['type']
+2744,"['acura', 'polestar']","['type', 'performance']"
+2745,['acura'],['comfort']
+2746,['toyota'],"['car parts', 'type']"
+2747,['bmw'],['type']
+2748,"['bmw', 'honda']",['comfort']
+2749,['bmw'],['performance']
+2751,['bmw'],"['car parts', 'type']"
+2753,['toyota'],"['type', 'comfort']"
+2757,"['bmw', 'acura']",['purchase']
+2758,"['infiniti', 'acura']","['performance', 'type']"
+2759,['polestar'],['comfort']
+2761,['infiniti'],['purchase']
+2762,['bmw'],"['performance', 'purchase']"
+2765,['bmw'],"['purchase', 'performance', 'interior', 'comfort']"
+2766,"['infiniti', 'bmw']","['comfort', 'performance', 'purchase']"
+2767,['bmw'],"['purchase', 'comfort', 'performance']"
+2769,"['acura', 'infiniti', 'bmw', 'audi']","['performance', 'type']"
+2773,"['acura', 'infiniti']","['purchase', 'type']"
+2774,"['infiniti', 'polestar', 'bmw', 'acura', 'nissan', 'honda']","['type', 'performance', 'purchase']"
+2775,"['bmw', 'acura', 'infiniti', 'lexus', 'audi', 'cadillac']","['type', 'performance']"
+2776,"['bmw', 'audi']","['type', 'performance']"
+2778,"['bmw', 'audi']","['performance', 'car parts', 'type']"
+2779,"['acura', 'honda']","['car parts', 'performance']"
+2780,['lexus'],"['comfort', 'performance', 'purchase']"
+2781,"['audi', 'honda', 'acura', 'polestar']","['purchase', 'performance', 'type', 'comfort']"
+2782,"['audi', 'bmw', 'cadillac', 'infiniti', 'acura']","['performance', 'purchase', 'car parts', 'type', 'comfort']"
+2783,['bmw'],['purchase']
+2785,"['audi', 'polestar', 'bmw']","['performance', 'purchase']"
+2786,['bmw'],['purchase']
+2788,['infiniti'],['car parts']
+2789,"['bmw', 'infiniti', 'acura']","['purchase', 'type', 'comfort', 'performance']"
+2791,['bmw'],['purchase']
+2792,"['infiniti', 'nissan']",['type']
+2793,"['audi', 'bmw']","['performance', 'purchase']"
+2794,['nissan'],"['purchase', 'performance']"
+2795,['bmw'],['purchase']
+2796,"['infiniti', 'nissan', 'bmw']","['performance', 'type']"
+2800,"['nissan', 'infiniti']",['performance']
+2801,"['nissan', 'lexus', 'bmw']",['purchase']
+2802,"['infiniti', 'nissan']",['car parts']
+2805,"['cadillac', 'lexus', 'polestar']","['type', 'car parts', 'performance']"
+2808,['nissan'],['performance']
+2811,['infiniti'],['purchase']
+2812,"['nissan', 'infiniti']",['purchase']
+2818,"['bmw', 'audi', 'cadillac', 'toyota']","['performance', 'purchase', 'type', 'comfort', 'car parts']"
+2819,"['acura', 'polestar', 'bmw']","['purchase', 'car parts']"
+2820,['bmw'],"['type', 'car parts']"
+2824,['bmw'],['type']
+2825,['bmw'],['type']
+2828,"['bmw', 'acura']","['performance', 'type', 'purchase']"
+2829,['bmw'],['type']
+2830,['infiniti'],['type']
+2831,['infiniti'],['type']
+2832,['audi'],"['performance', 'type']"
+2833,"['infiniti', 'toyota', 'nissan', 'lexus', 'honda', 'bmw', 'cadillac']","['car parts', 'purchase', 'performance', 'interior']"
+2835,"['acura', 'honda']",['performance']
+2836,['lexus'],['car parts']
+2838,['lexus'],"['performance', 'type']"
+2840,"['lexus', 'toyota']","['type', 'car parts']"
+2841,['lexus'],['type']
+2842,['bmw'],"['type', 'performance']"
+2843,['bmw'],"['performance', 'purchase']"
+2845,"['infiniti', 'cadillac']",['performance']
+2848,['honda'],['type']
+2854,['honda'],"['type', 'performance', 'car parts']"
+2858,"['bmw', 'acura', 'cadillac']","['car parts', 'type']"
+2865,['lexus'],['performance']
+2866,"['acura', 'bmw']","['performance', 'type']"
+2880,['audi'],"['type', 'performance', 'purchase']"
+2897,['bmw'],['comfort']
+2902,['bmw'],['car parts']
+2911,['acura'],['purchase']
+2915,['bmw'],['purchase']
+2917,['bmw'],['purchase']
+2921,"['polestar', 'infiniti', 'nissan']","['performance', 'type']"
+2924,"['polestar', 'infiniti', 'nissan']","['performance', 'type']"
+2931,['infiniti'],"['performance', 'purchase']"
+2932,"['polestar', 'acura']",['performance']
+2934,"['lexus', 'acura', 'audi', 'infiniti']","['purchase', 'performance']"
+2938,"['audi', 'infiniti', 'polestar', 'bmw']","['type', 'performance', 'comfort', 'purchase']"
+2941,"['audi', 'bmw']",['performance']
+2946,"['lexus', 'acura', 'bmw']","['type', 'car parts']"
+2948,"['honda', 'audi']",['purchase']
+2949,"['infiniti', 'nissan', 'audi', 'lexus', 'bmw']","['performance', 'purchase']"
+2952,['cadillac'],['type']
+2953,"['cadillac', 'bmw']","['type', 'performance']"
+2954,"['cadillac', 'audi', 'bmw']",['performance']
+2956,"['cadillac', 'bmw']","['purchase', 'performance']"
+2958,"['cadillac', 'acura', 'audi', 'infiniti', 'bmw']","['performance', 'purchase', 'type']"
+2959,"['cadillac', 'audi']","['type', 'purchase']"
+2960,['cadillac'],['purchase']
+2963,"['cadillac', 'polestar']","['performance', 'type']"
+2964,"['cadillac', 'bmw', 'audi']",['type']
+2967,"['acura', 'bmw']","['type', 'car parts', 'comfort', 'performance', 'purchase']"
+2968,['acura'],['purchase']
+2969,"['cadillac', 'audi']","['purchase', 'type', 'performance']"
+2970,"['acura', 'audi']",['purchase']
+2971,"['bmw', 'acura']","['purchase', 'car parts']"
+2972,"['audi', 'polestar']",['performance']
+2975,"['cadillac', 'polestar']","['purchase', 'type']"
+2978,['audi'],"['type', 'performance']"
+2986,['audi'],['type']
+2987,"['bmw', 'polestar', 'audi']","['car parts', 'performance']"
+2989,['bmw'],['purchase']
+2991,['audi'],['type']
+2992,['audi'],['type']
+2994,"['polestar', 'cadillac']","['purchase', 'type']"
+2999,"['audi', 'acura', 'infiniti']","['type', 'performance', 'purchase', 'comfort']"
+3003,"['polestar', 'audi']",['purchase']
+3006,['bmw'],['car parts']
+3011,"['acura', 'audi', 'bmw']","['performance', 'car parts', 'comfort', 'interior']"
+3016,['polestar'],['purchase']
+3036,"['acura', 'infiniti']","['type', 'performance']"
+3039,['bmw'],['car parts']
+3041,"['bmw', 'polestar']",['purchase']
+3049,['honda'],['performance']
+3050,['acura'],"['comfort', 'purchase']"
+3053,['acura'],['type']
+3055,"['acura', 'honda', 'polestar', 'bmw']","['type', 'comfort']"
+3056,"['honda', 'acura', 'polestar', 'bmw']","['performance', 'car parts', 'type']"
+3058,"['bmw', 'acura']",['performance']
+3066,['bmw'],"['car parts', 'comfort']"
+3071,"['acura', 'audi', 'lexus']",['performance']
+3080,['polestar'],['performance']
+3082,['bmw'],['performance']
+3084,['bmw'],['comfort']
+3098,['bmw'],['purchase']
+3102,['polestar'],['performance']
+3105,['bmw'],"['type', 'performance', 'purchase']"
+3108,['bmw'],"['comfort', 'type', 'performance']"
+3112,"['bmw', 'audi']",['purchase']
+3115,['bmw'],['purchase']
+3117,['bmw'],['type']
+3118,"['bmw', 'polestar']","['type', 'comfort', 'performance']"
+3119,['bmw'],"['type', 'car parts', 'performance']"
+3120,['bmw'],"['purchase', 'car parts', 'performance']"
+3122,['bmw'],['performance']
+3124,"['polestar', 'bmw']",['purchase']
+3128,"['bmw', 'polestar']",['performance']
+3129,['bmw'],"['type', 'purchase']"
+3131,['bmw'],['performance']
+3135,"['infiniti', 'bmw', 'polestar']","['performance', 'purchase']"
+3136,['bmw'],"['purchase', 'performance', 'type']"
+3139,['bmw'],['performance']
+3143,"['bmw', 'acura', 'honda']",['performance']
+3144,['acura'],['performance']
+3148,['bmw'],"['performance', 'comfort']"
+3149,"['honda', 'audi', 'acura', 'bmw', 'infiniti']","['purchase', 'performance']"
+3150,"['polestar', 'honda', 'acura', 'bmw']","['comfort', 'performance']"
+3154,"['bmw', 'audi', 'acura']","['purchase', 'type', 'performance']"
+3155,"['bmw', 'infiniti']",['purchase']
+3157,['bmw'],"['performance', 'purchase']"
+3166,"['bmw', 'infiniti']","['type', 'performance', 'car parts', 'purchase', 'comfort']"
+3171,"['bmw', 'lexus']",['purchase']
+3174,['acura'],['type']
+3175,"['bmw', 'lexus']","['performance', 'purchase']"
+3177,"['bmw', 'polestar', 'acura', 'lexus']",['purchase']
+3180,['bmw'],"['performance', 'purchase', 'car parts']"
+3182,['bmw'],"['type', 'purchase', 'comfort']"
+3183,"['bmw', 'audi']","['comfort', 'purchase', 'car parts']"
+3184,['bmw'],"['performance', 'purchase']"
+3191,"['audi', 'toyota']","['purchase', 'performance']"
+3193,"['toyota', 'bmw', 'honda']",['performance']
+3194,"['toyota', 'nissan', 'bmw', 'honda']","['performance', 'type']"
+3195,"['toyota', 'honda', 'bmw']",['type']
+3198,['bmw'],['performance']
+3199,"['lexus', 'infiniti']","['type', 'purchase']"
+3200,"['lexus', 'audi', 'toyota']",['performance']
+3204,"['bmw', 'audi']","['purchase', 'comfort']"
+3206,"['bmw', 'toyota']",['purchase']
+3209,['honda'],['car parts']
+3216,"['bmw', 'honda', 'polestar']","['performance', 'purchase', 'type']"
+3224,['bmw'],['purchase']
+3225,['bmw'],['purchase']
+3227,"['audi', 'polestar']","['purchase', 'performance', 'car parts']"
+3240,"['bmw', 'audi']","['comfort', 'performance', 'purchase']"
+3242,['bmw'],"['car parts', 'type']"
+3244,['bmw'],['performance']
+3247,"['honda', 'audi']","['performance', 'purchase']"
+3249,"['lexus', 'toyota', 'audi', 'honda']","['car parts', 'performance']"
+3250,['lexus'],"['purchase', 'performance']"
+3252,['acura'],['car parts']
+3256,"['bmw', 'audi']",['performance']
+3263,"['audi', 'infiniti', 'acura', 'bmw']","['purchase', 'performance']"
+3265,"['bmw', 'acura']","['purchase', 'performance']"
+3266,"['audi', 'acura']",['performance']
+3268,['infiniti'],"['type', 'car parts', 'purchase', 'performance']"
+3270,"['audi', 'acura', 'bmw']",['purchase']
+3271,"['acura', 'infiniti']","['performance', 'car parts']"
+3272,"['infiniti', 'bmw']","['performance', 'type']"
+3273,"['infiniti', 'bmw']",['performance']
+3274,"['honda', 'bmw']","['performance', 'purchase', 'car parts']"
+3275,['bmw'],"['performance', 'comfort', 'car parts']"
+3276,"['bmw', 'polestar']","['purchase', 'performance']"
+3284,"['bmw', 'toyota']",['purchase']
+3287,['bmw'],['car parts']
+3288,"['bmw', 'polestar', 'honda']",['purchase']
+3290,['bmw'],"['type', 'purchase']"
+3291,['bmw'],['purchase']
+3292,['bmw'],['purchase']
+3293,"['polestar', 'bmw']",['type']
+3296,['bmw'],"['purchase', 'performance']"
+3297,"['bmw', 'infiniti', 'acura']","['interior', 'comfort', 'car parts']"
+3300,['bmw'],['type']
+3304,['bmw'],"['type', 'purchase']"
+3307,['polestar'],"['car parts', 'purchase', 'performance', 'type', 'comfort']"
+3308,['bmw'],['purchase']
+3313,['nissan'],"['performance', 'comfort']"
+3314,['toyota'],"['performance', 'purchase', 'type']"
+3322,"['toyota', 'acura']","['type', 'purchase']"
+3328,"['infiniti', 'bmw']",['purchase']
+3338,"['audi', 'bmw', 'nissan', 'infiniti']","['purchase', 'type']"
+3340,"['infiniti', 'bmw']",['purchase']
+3343,"['bmw', 'nissan']","['type', 'performance', 'car parts']"
+3346,"['honda', 'bmw']","['performance', 'type', 'comfort']"
+3348,"['lexus', 'infiniti', 'bmw', 'audi']",['type']
+3354,['honda'],['comfort']
+3355,['honda'],['type']
+3358,"['lexus', 'infiniti', 'bmw', 'audi']","['performance', 'purchase']"
+3360,['polestar'],"['performance', 'car parts', 'type']"
+3361,"['honda', 'polestar', 'audi']","['comfort', 'car parts']"
+3372,"['bmw', 'honda', 'acura']","['performance', 'comfort', 'car parts']"
+3386,['bmw'],"['type', 'performance']"
+3387,"['acura', 'honda']",['purchase']
+3392,['bmw'],['performance']
+3397,['bmw'],"['type', 'purchase']"
+3403,"['bmw', 'polestar', 'acura', 'honda']","['type', 'performance']"
+3404,['bmw'],['performance']
+3412,['bmw'],"['purchase', 'type', 'performance', 'car parts']"
+3414,['bmw'],['car parts']
+3418,['bmw'],['purchase']
+3419,"['cadillac', 'acura', 'bmw']","['performance', 'purchase']"
+3422,"['cadillac', 'bmw']","['purchase', 'performance']"
+3423,"['bmw', 'infiniti']","['purchase', 'performance']"
+3424,['bmw'],['purchase']
+3425,['bmw'],"['type', 'car parts', 'purchase']"
+3429,"['cadillac', 'bmw']",['purchase']
+3430,['bmw'],['purchase']
+3432,"['polestar', 'bmw']","['performance', 'type', 'car parts']"
+3433,['honda'],"['type', 'purchase']"
+3445,['audi'],['performance']
+3446,['bmw'],"['type', 'performance']"
+3447,['bmw'],"['type', 'car parts', 'performance', 'purchase']"
+3448,['bmw'],['purchase']
+3450,"['acura', 'audi', 'bmw']","['performance', 'purchase', 'car parts', 'type']"
+3453,['honda'],"['purchase', 'performance']"
+3455,"['acura', 'honda', 'audi']","['performance', 'purchase']"
+3461,['acura'],"['performance', 'type']"
+3462,"['bmw', 'nissan']","['purchase', 'car parts']"
+3464,['toyota'],"['performance', 'comfort', 'purchase']"
+3468,"['bmw', 'audi']","['purchase', 'performance', 'type']"
+3469,['bmw'],"['performance', 'purchase']"
+3473,['audi'],['performance']
+3474,['audi'],"['purchase', 'performance']"
+3475,"['bmw', 'infiniti']","['car parts', 'type']"
+3480,"['cadillac', 'bmw', 'audi', 'polestar']","['performance', 'purchase']"
+3482,['audi'],['purchase']
+3483,"['audi', 'infiniti']","['performance', 'type', 'car parts']"
+3484,"['bmw', 'lexus']",['performance']
+3489,"['honda', 'bmw', 'acura']",['car parts']
+3498,['bmw'],['car parts']
+3506,['acura'],['purchase']
+3512,['bmw'],"['purchase', 'car parts']"
+3514,['bmw'],"['performance', 'type', 'car parts']"
+3522,"['honda', 'bmw', 'polestar']","['type', 'car parts', 'performance', 'purchase']"
+3523,['bmw'],"['type', 'performance', 'purchase']"
+3526,['lexus'],['performance']
+3528,['infiniti'],['performance']
+3529,['bmw'],"['car parts', 'type']"
+3530,['honda'],"['performance', 'type']"
+3532,['honda'],"['performance', 'type']"
+3534,"['lexus', 'infiniti', 'bmw']","['type', 'performance']"
+3538,['polestar'],['type']
+3540,"['honda', 'bmw', 'acura', 'polestar']","['type', 'purchase', 'performance']"
+3553,"['polestar', 'bmw']","['type', 'comfort', 'car parts', 'purchase']"
+3556,['bmw'],"['type', 'performance', 'car parts']"
+3557,"['bmw', 'audi', 'toyota', 'honda']",['purchase']
+3558,"['polestar', 'bmw']","['purchase', 'car parts']"
+3562,['bmw'],"['purchase', 'type']"
+3563,['bmw'],['purchase']
+3567,['bmw'],"['purchase', 'comfort', 'car parts']"
+3569,"['bmw', 'honda']",['performance']
+3572,['bmw'],"['purchase', 'type']"
+3574,['lexus'],"['performance', 'type', 'comfort', 'car parts']"
+3575,"['bmw', 'honda']","['purchase', 'type', 'performance']"
+3577,"['bmw', 'polestar']","['type', 'performance']"
+3579,"['audi', 'bmw', 'acura']","['type', 'car parts', 'purchase', 'performance']"
+3582,"['bmw', 'acura']","['purchase', 'car parts']"
+3584,['polestar'],['type']
+3590,['bmw'],"['type', 'purchase']"
+3591,['bmw'],['performance']
+3593,['bmw'],['car parts']
+3603,"['bmw', 'audi']","['purchase', 'type']"
+3604,['bmw'],['type']
+3609,"['bmw', 'audi']",['type']
+3611,['bmw'],['car parts']
+3612,['polestar'],['purchase']
+3618,['bmw'],"['performance', 'purchase', 'car parts', 'type']"
+3622,"['acura', 'polestar']",['type']
+3623,['honda'],"['type', 'car parts', 'performance']"
+3630,"['acura', 'honda']",['purchase']
+3634,['honda'],['type']
+3638,"['acura', 'honda', 'audi', 'infiniti', 'cadillac']",['performance']
+3642,"['honda', 'acura', 'polestar', 'bmw']","['performance', 'purchase']"
+3643,['acura'],"['performance', 'purchase']"
+3646,['acura'],['car parts']
+3647,"['honda', 'acura', 'bmw']","['purchase', 'performance', 'car parts', 'type']"
+3672,"['lexus', 'bmw']","['performance', 'type']"
+3674,['acura'],"['performance', 'purchase']"
+3675,"['lexus', 'bmw']",['performance']
+3676,"['lexus', 'toyota']","['type', 'purchase', 'comfort']"
+3684,"['honda', 'infiniti']",['performance']
+3685,"['bmw', 'polestar']","['comfort', 'type', 'car parts', 'purchase']"
+3686,['lexus'],['comfort']
+3688,['lexus'],['purchase']
+3690,"['lexus', 'audi', 'cadillac']","['comfort', 'performance']"
+3691,"['acura', 'infiniti']",['type']
+3693,"['lexus', 'audi']",['type']
+3694,"['nissan', 'acura']",['comfort']
+3695,"['acura', 'infiniti', 'honda']","['type', 'performance']"
+3697,"['lexus', 'acura']","['comfort', 'type', 'performance', 'purchase']"
+3699,['polestar'],['performance']
+3704,"['acura', 'honda']",['purchase']
+3707,"['honda', 'nissan']",['car parts']
+3708,"['honda', 'toyota']","['purchase', 'performance']"
+3709,"['acura', 'honda']",['type']
+3711,"['acura', 'honda', 'bmw']","['safety', 'purchase']"
+3712,"['acura', 'honda', 'lexus', 'toyota']",['purchase']
+3713,['acura'],['type']
+3714,"['bmw', 'acura', 'polestar']",['purchase']
+3718,['bmw'],"['type', 'performance']"
+3726,"['acura', 'bmw', 'audi', 'cadillac']","['type', 'purchase']"
+3727,"['acura', 'honda', 'lexus', 'bmw', 'audi']",['purchase']
+3728,"['bmw', 'acura', 'honda']",['purchase']
+3729,"['acura', 'bmw']",['purchase']
+3733,['bmw'],['purchase']
+3734,"['bmw', 'acura']",['purchase']
+3735,['bmw'],['purchase']
+3738,"['bmw', 'acura']",['purchase']
+3739,"['bmw', 'acura', 'audi']",['car parts']
+3745,"['acura', 'lexus', 'bmw', 'audi']","['type', 'performance', 'purchase']"
+3746,['acura'],"['type', 'purchase']"
+3747,['bmw'],['type']
+3751,['acura'],['purchase']
+3753,"['acura', 'lexus']",['purchase']
+3759,['bmw'],['performance']
+3766,"['acura', 'audi', 'bmw', 'toyota', 'honda', 'lexus', 'infiniti']","['purchase', 'type', 'performance']"
+3767,['audi'],['performance']
+3768,"['audi', 'acura', 'honda']","['performance', 'purchase']"
+3769,['bmw'],['purchase']
+3770,['cadillac'],['comfort']
+3773,"['acura', 'honda', 'lexus']","['type', 'purchase']"
+3776,"['acura', 'bmw', 'audi']",['purchase']
+3780,['audi'],['performance']
+3781,"['audi', 'bmw', 'acura']","['purchase', 'performance']"
+3783,['audi'],"['type', 'purchase']"
+3784,"['acura', 'honda', 'toyota']","['performance', 'purchase']"
+3787,"['acura', 'honda']","['comfort', 'purchase', 'type']"
+3788,['bmw'],['purchase']
+3789,"['honda', 'audi']","['comfort', 'performance']"
+3790,['acura'],['type']
+3791,"['acura', 'honda', 'polestar']","['type', 'performance']"
+3795,['bmw'],"['comfort', 'car parts', 'purchase', 'interior']"
+3798,['bmw'],['performance']
+3802,"['infiniti', 'bmw']",['performance']
+3815,"['bmw', 'honda']","['performance', 'type', 'comfort', 'car parts', 'purchase']"
+3818,['bmw'],"['performance', 'car parts', 'comfort', 'interior', 'purchase', 'type']"
+3820,"['bmw', 'polestar', 'audi']","['purchase', 'car parts', 'type']"
+3821,"['audi', 'bmw']","['comfort', 'purchase']"
+3822,"['bmw', 'audi', 'honda']","['performance', 'purchase', 'car parts', 'comfort']"
+3827,"['polestar', 'audi']","['car parts', 'performance']"
+3828,"['audi', 'honda']","['car parts', 'purchase']"
+3836,"['polestar', 'audi', 'cadillac', 'bmw']","['purchase', 'performance']"
+3840,['bmw'],"['type', 'purchase']"
+3844,"['polestar', 'audi', 'bmw']","['comfort', 'type', 'performance', 'car parts']"
+3845,['bmw'],"['purchase', 'car parts']"
+3848,"['bmw', 'audi']","['car parts', 'type', 'performance']"
+3850,['bmw'],['performance']
+3854,['bmw'],"['type', 'car parts']"
+3862,"['honda', 'bmw', 'acura']","['type', 'purchase', 'performance', 'car parts']"
+3864,"['bmw', 'toyota']","['type', 'car parts', 'purchase', 'performance', 'comfort']"
+3872,['honda'],['type']
+3887,['polestar'],"['performance', 'purchase']"
+3888,"['polestar', 'toyota', 'audi', 'bmw', 'honda']",['purchase']
+3890,"['audi', 'bmw']",['type']
+3891,"['bmw', 'polestar']",['purchase']
+3896,"['nissan', 'honda']",['comfort']
+3897,['honda'],"['purchase', 'type']"
+3898,['acura'],"['type', 'purchase']"
+3899,"['bmw', 'honda']","['performance', 'purchase']"
+3900,['honda'],['purchase']
+3906,"['nissan', 'acura', 'honda']",['performance']
+3909,['bmw'],"['performance', 'type']"
+3910,"['honda', 'nissan', 'bmw']",['type']
+3916,['honda'],"['performance', 'type', 'car parts', 'purchase']"
+3923,['bmw'],['type']
+3927,['nissan'],"['type', 'car parts']"
+3930,['nissan'],"['performance', 'comfort']"
+3931,"['bmw', 'honda']","['performance', 'purchase', 'comfort']"
+3936,"['bmw', 'honda']",['performance']
+3937,['bmw'],"['purchase', 'performance', 'comfort', 'car parts']"
+3941,"['bmw', 'honda']","['comfort', 'performance']"
+3946,['bmw'],"['type', 'performance', 'comfort', 'car parts']"
+3949,['bmw'],"['car parts', 'purchase']"
+3950,"['bmw', 'polestar']","['type', 'purchase', 'comfort']"
+3951,['bmw'],['performance']
+3954,"['nissan', 'infiniti']",['type']
+3955,['bmw'],"['performance', 'car parts']"
+3956,['bmw'],['performance']
+3958,"['nissan', 'bmw', 'infiniti']",['performance']
+3961,['bmw'],['comfort']
+3962,['bmw'],"['performance', 'purchase']"
+3965,"['toyota', 'polestar', 'nissan', 'bmw']","['comfort', 'performance']"
+3980,['bmw'],['performance']
+3983,['cadillac'],['performance']
+3984,['bmw'],['performance']
+3985,"['bmw', 'cadillac']","['comfort', 'performance', 'type', 'car parts', 'purchase']"
+3990,['cadillac'],"['purchase', 'car parts']"
+3995,['bmw'],"['performance', 'purchase']"
+3999,['bmw'],['performance']
+4003,['bmw'],"['purchase', 'performance']"
+4006,['bmw'],"['performance', 'type', 'purchase']"
+4008,['polestar'],['performance']
+4009,['cadillac'],['type']
+4013,['cadillac'],['performance']
+4018,['cadillac'],"['comfort', 'purchase']"
+4019,"['polestar', 'bmw']","['performance', 'car parts', 'type']"
+4020,['cadillac'],['purchase']
+4022,"['polestar', 'cadillac']",['purchase']
+4023,"['cadillac', 'bmw', 'audi']","['performance', 'purchase']"
+4026,['cadillac'],"['purchase', 'comfort']"
+4027,['cadillac'],"['purchase', 'comfort']"
+4029,"['bmw', 'cadillac']","['performance', 'car parts']"
+4031,['bmw'],['performance']
+4033,['bmw'],"['type', 'comfort', 'performance']"
+4036,"['audi', 'nissan', 'infiniti']","['purchase', 'performance']"
+4037,"['audi', 'nissan', 'infiniti', 'cadillac']","['purchase', 'performance', 'type']"
+4042,"['polestar', 'honda']","['type', 'performance']"
+4045,['cadillac'],['performance']
+4047,['bmw'],['type']
+4048,"['audi', 'acura', 'lexus', 'honda', 'toyota']","['performance', 'car parts', 'type', 'purchase']"
+4049,"['acura', 'honda']",['type']
+4052,"['acura', 'bmw', 'audi']","['car parts', 'performance', 'purchase']"
+4053,"['acura', 'lexus', 'infiniti', 'honda', 'toyota', 'nissan', 'bmw']",['performance']
+4055,"['acura', 'honda', 'toyota', 'cadillac']","['type', 'performance']"
+4057,"['acura', 'honda', 'toyota', 'cadillac']","['car parts', 'performance']"
+4058,['acura'],['performance']
+4060,"['audi', 'cadillac', 'acura', 'infiniti']","['car parts', 'performance', 'comfort', 'purchase', 'type']"
+4061,"['acura', 'lexus']","['purchase', 'type']"
+4062,"['acura', 'lexus', 'honda', 'bmw', 'audi']",['performance']
+4064,"['honda', 'acura']","['car parts', 'performance']"
+4065,"['audi', 'acura']",['comfort']
+4069,"['lexus', 'acura', 'toyota']","['performance', 'purchase']"
+4071,"['audi', 'bmw', 'infiniti', 'acura']","['performance', 'type', 'car parts', 'purchase']"
+4075,"['audi', 'acura', 'bmw']","['performance', 'purchase']"
+4076,"['audi', 'acura', 'bmw']","['purchase', 'performance', 'car parts', 'type', 'comfort']"
+4080,"['bmw', 'audi']","['purchase', 'performance']"
+4083,"['bmw', 'audi']","['performance', 'type']"
+4087,['bmw'],"['type', 'performance', 'car parts']"
+4088,['acura'],"['performance', 'purchase']"
+4091,['audi'],"['performance', 'comfort']"
+4094,['lexus'],"['type', 'purchase', 'performance']"
+4096,['bmw'],"['performance', 'purchase']"
+4098,['bmw'],"['type', 'purchase']"
+4099,"['bmw', 'acura', 'audi', 'lexus']","['performance', 'purchase']"
+4100,"['bmw', 'audi', 'lexus', 'nissan', 'infiniti']","['type', 'purchase']"
+4101,"['audi', 'bmw']",['type']
+4102,['nissan'],['purchase']
+4104,"['bmw', 'audi', 'acura', 'honda']","['purchase', 'comfort', 'type']"
+4105,['bmw'],['purchase']
+4107,"['toyota', 'audi', 'bmw']",['purchase']
+4111,"['acura', 'bmw', 'polestar']","['purchase', 'performance']"
+4112,"['honda', 'toyota', 'cadillac', 'lexus', 'acura']",['performance']
+4113,['bmw'],"['purchase', 'safety', 'performance', 'car parts', 'comfort']"
+4114,"['honda', 'lexus']","['purchase', 'comfort']"
+4116,['infiniti'],['purchase']
+4117,"['bmw', 'polestar', 'audi']",['purchase']
+4119,"['acura', 'bmw', 'audi']","['performance', 'purchase']"
+4121,"['polestar', 'honda']","['performance', 'comfort']"
+4123,['audi'],"['purchase', 'comfort']"
+4124,['bmw'],['purchase']
+4125,['bmw'],"['car parts', 'purchase']"
+4127,"['bmw', 'acura', 'audi']","['purchase', 'type']"
+4129,['bmw'],['type']
+4130,['bmw'],['purchase']
+4131,"['bmw', 'cadillac', 'audi']","['purchase', 'performance', 'comfort', 'car parts']"
+4132,"['bmw', 'acura', 'polestar', 'audi', 'nissan']","['type', 'purchase', 'performance', 'comfort']"
+4133,"['bmw', 'audi']","['performance', 'comfort']"
+4135,"['acura', 'bmw']","['type', 'purchase']"
+4136,"['audi', 'bmw', 'nissan', 'honda', 'lexus', 'polestar']","['purchase', 'performance']"
+4138,"['bmw', 'honda', 'acura', 'polestar']","['type', 'performance', 'purchase']"
+4139,"['bmw', 'lexus', 'infiniti', 'acura']",['purchase']
+4140,"['bmw', 'acura']","['comfort', 'purchase', 'type', 'performance']"
+4142,['bmw'],['purchase']
+4148,['nissan'],"['performance', 'type']"
+4149,['acura'],"['type', 'performance']"
+4150,"['bmw', 'honda', 'polestar']",['type']
+4151,['acura'],"['type', 'purchase', 'performance']"
+4153,"['bmw', 'honda']","['performance', 'comfort', 'type']"
+4155,"['bmw', 'acura']","['purchase', 'type', 'car parts', 'performance', 'comfort']"
+4156,['bmw'],['performance']
+4165,"['bmw', 'audi']","['purchase', 'performance']"
+4166,"['acura', 'polestar', 'bmw', 'audi', 'infiniti', 'cadillac', 'lexus']",['performance']
+4167,['audi'],['type']
+4168,"['bmw', 'polestar', 'audi', 'infiniti']","['type', 'car parts', 'comfort', 'performance']"
+4169,['bmw'],['purchase']
+4170,"['audi', 'infiniti', 'polestar', 'bmw', 'acura']","['type', 'car parts', 'performance']"
+4172,"['audi', 'acura', 'bmw']","['performance', 'type', 'car parts', 'purchase']"
+4174,"['audi', 'acura']",['performance']
+4175,"['audi', 'bmw']","['type', 'performance']"
+4177,['bmw'],['type']
+4178,"['audi', 'acura', 'bmw']","['type', 'performance']"
+4180,"['audi', 'acura']",['comfort']
+4182,['bmw'],['performance']
+4185,"['audi', 'acura']","['purchase', 'car parts', 'type']"
+4187,"['audi', 'honda']","['purchase', 'comfort']"
+4188,"['bmw', 'nissan']","['performance', 'car parts', 'purchase', 'type']"
+4190,"['honda', 'polestar', 'nissan', 'toyota']","['comfort', 'type']"
+4191,['infiniti'],['performance']
+4192,"['audi', 'acura', 'honda']","['purchase', 'performance', 'type', 'car parts']"
+4193,"['lexus', 'honda', 'polestar']","['purchase', 'type']"
+4194,"['toyota', 'acura']",['type']
+4195,['acura'],"['performance', 'type']"
+4196,"['acura', 'bmw', 'audi']","['performance', 'type']"
+4197,"['toyota', 'acura']","['type', 'performance']"
+4198,"['acura', 'bmw', 'audi']",['type']
+4201,['bmw'],['type']
+4202,"['toyota', 'audi']",['purchase']
+4203,"['audi', 'honda']","['type', 'purchase', 'performance', 'car parts']"
+4204,['toyota'],['type']
+4205,['toyota'],['type']
+4206,['toyota'],"['type', 'performance']"
+4208,['toyota'],['type']
+4213,['toyota'],"['type', 'car parts']"
+4215,"['bmw', 'polestar']",['comfort']
+4216,['bmw'],"['performance', 'type', 'purchase']"
+4217,"['bmw', 'audi']",['type']
+4218,"['honda', 'nissan', 'bmw']","['type', 'performance']"
+4221,['toyota'],"['performance', 'type', 'purchase']"
+4234,"['lexus', 'toyota']","['comfort', 'car parts', 'performance', 'safety', 'purchase']"
+4235,['toyota'],"['performance', 'car parts']"
+4242,['toyota'],['purchase']
+4248,"['bmw', 'polestar']","['purchase', 'car parts', 'comfort']"
+4249,['bmw'],['purchase']
+4263,"['audi', 'infiniti']","['comfort', 'performance', 'type', 'car parts']"
+4267,"['bmw', 'honda', 'infiniti']",['type']
+4276,['bmw'],"['comfort', 'car parts']"
+4281,['bmw'],['comfort']
+4283,['acura'],"['performance', 'type', 'purchase']"
+4286,"['infiniti', 'audi', 'bmw']","['type', 'car parts']"
+4287,['bmw'],"['comfort', 'performance']"
+4290,['infiniti'],['performance']
+4300,['acura'],"['performance', 'type']"
+4301,['acura'],['performance']
+4305,"['acura', 'honda']","['purchase', 'performance']"
+4307,"['acura', 'bmw']","['type', 'purchase']"
+4309,"['infiniti', 'lexus', 'bmw', 'audi', 'nissan']",['performance']
+4311,['nissan'],['car parts']
+4312,['audi'],['performance']
+4315,"['nissan', 'audi']","['performance', 'type']"
+4316,['bmw'],"['car parts', 'purchase']"
+4318,"['acura', 'polestar']",['performance']
+4321,"['acura', 'audi']",['performance']
+4322,"['acura', 'honda']",['purchase']
+4325,"['acura', 'bmw', 'audi']","['type', 'performance']"
+4326,['infiniti'],['purchase']
+4329,['acura'],"['performance', 'purchase', 'type']"
+4331,"['honda', 'acura']","['performance', 'type']"
+4339,"['audi', 'bmw']","['type', 'purchase']"
+4341,['polestar'],['purchase']
+4343,"['polestar', 'audi', 'bmw']",['comfort']
+4344,['bmw'],"['purchase', 'type']"
+4345,['audi'],['comfort']
+4350,"['bmw', 'audi']","['purchase', 'type', 'car parts']"
+4351,"['audi', 'bmw', 'nissan']",['comfort']
+4354,['polestar'],['purchase']
+4355,['polestar'],"['type', 'performance', 'car parts', 'purchase']"
+4357,['polestar'],"['performance', 'purchase']"
+4360,"['bmw', 'audi', 'infiniti']","['purchase', 'comfort', 'car parts']"
+4362,"['honda', 'bmw', 'infiniti', 'lexus', 'audi']",['comfort']
+4365,['bmw'],['comfort']
+4372,['acura'],['performance']
+4373,['lexus'],['type']
+4374,['polestar'],['type']
+4376,"['acura', 'bmw']","['comfort', 'performance', 'type']"
+4377,['cadillac'],['performance']
+4380,['audi'],['purchase']
+4383,"['bmw', 'cadillac']","['purchase', 'performance']"
+4384,"['acura', 'polestar']",['type']
+4389,"['acura', 'cadillac']","['type', 'performance', 'purchase']"
+4392,['bmw'],['purchase']
+4393,"['lexus', 'bmw', 'polestar']","['type', 'performance']"
+4395,"['bmw', 'lexus']",['type']
+4397,['cadillac'],['comfort']
+4407,['acura'],"['comfort', 'purchase']"
+4408,"['acura', 'bmw']",['type']
+4412,"['acura', 'honda', 'lexus', 'infiniti', 'toyota', 'nissan', 'bmw']",['type']
+4414,"['honda', 'acura']",['type']
+4418,['acura'],"['comfort', 'car parts']"
+4420,"['bmw', 'honda', 'acura']","['performance', 'purchase']"
+4425,['polestar'],['performance']
+4426,"['nissan', 'honda']","['comfort', 'performance']"
+4427,['cadillac'],['purchase']
+4429,"['infiniti', 'bmw']",['performance']
+4431,"['bmw', 'toyota', 'nissan']","['performance', 'purchase', 'comfort', 'car parts', 'type']"
+4432,"['bmw', 'polestar', 'lexus']","['car parts', 'type', 'performance']"
+4434,['bmw'],['performance']
+4436,"['polestar', 'bmw']","['performance', 'car parts', 'type']"
+4438,['bmw'],"['performance', 'type']"
+4442,"['polestar', 'bmw']","['type', 'purchase', 'performance', 'comfort']"
+4444,"['nissan', 'infiniti']","['type', 'car parts', 'performance']"
+4445,['infiniti'],['performance']
+4446,['infiniti'],['purchase']
+4447,"['infiniti', 'bmw']","['performance', 'car parts', 'purchase']"
+4448,['infiniti'],['purchase']
+4449,"['infiniti', 'bmw', 'cadillac', 'audi', 'lexus', 'acura']",['purchase']
+4450,"['polestar', 'infiniti']","['purchase', 'performance']"
+4451,"['infiniti', 'bmw']",['purchase']
+4455,"['infiniti', 'bmw']",['purchase']
+4457,"['infiniti', 'bmw']",['purchase']
+4458,"['bmw', 'infiniti']","['type', 'purchase', 'performance']"
+4459,"['bmw', 'audi', 'infiniti', 'lexus']",['purchase']
+4460,"['audi', 'bmw', 'acura']","['type', 'car parts']"
+4461,"['audi', 'bmw']",['purchase']
+4462,['bmw'],"['type', 'purchase', 'performance']"
+4463,"['bmw', 'infiniti', 'acura', 'polestar']",['performance']
+4466,"['bmw', 'infiniti']",['purchase']
+4467,"['audi', 'bmw']",['purchase']
+4469,"['bmw', 'infiniti']",['purchase']
+4471,"['infiniti', 'bmw', 'audi', 'acura']",['performance']
+4474,"['bmw', 'polestar']",['purchase']
+4479,"['audi', 'bmw']","['purchase', 'performance']"
+4485,['honda'],['purchase']
+4488,"['toyota', 'honda', 'nissan', 'audi']",['purchase']
+4489,"['toyota', 'honda']",['purchase']
+4492,"['infiniti', 'acura', 'audi', 'bmw']","['type', 'purchase', 'performance']"
+4493,"['bmw', 'infiniti', 'lexus', 'audi', 'acura']","['purchase', 'type', 'car parts']"
+4497,['bmw'],['purchase']
+4500,"['bmw', 'toyota', 'honda', 'nissan']",['purchase']
+4502,"['nissan', 'toyota']","['purchase', 'type']"
+4504,"['toyota', 'honda', 'nissan']",['purchase']
+4505,['infiniti'],"['purchase', 'performance']"
+4508,['bmw'],['performance']
+4510,"['bmw', 'cadillac']",['performance']
+4511,['bmw'],"['performance', 'purchase']"
+4513,['bmw'],['purchase']
+4514,['bmw'],['purchase']
+4515,['bmw'],['performance']
+4516,"['infiniti', 'bmw']",['performance']
+4518,"['cadillac', 'bmw', 'polestar']","['performance', 'car parts']"
+4519,['cadillac'],"['purchase', 'performance', 'car parts']"
+4522,"['cadillac', 'bmw']",['performance']
+4523,"['cadillac', 'bmw', 'lexus']","['performance', 'type']"
+4524,"['cadillac', 'bmw']","['performance', 'car parts']"
+4526,"['bmw', 'cadillac']",['performance']
+4529,"['audi', 'infiniti', 'lexus']",['type']
+4531,['bmw'],['type']
+4532,['bmw'],"['purchase', 'performance']"
+4533,"['bmw', 'polestar']",['performance']
+4535,"['bmw', 'polestar', 'cadillac']","['performance', 'car parts']"
+4539,['bmw'],"['performance', 'type']"
+4543,"['infiniti', 'bmw', 'nissan']","['performance', 'type']"
+4544,['cadillac'],['purchase']
+4545,"['infiniti', 'bmw']",['performance']
+4547,['cadillac'],['type']
+4548,['bmw'],['type']
+4549,['bmw'],"['type', 'performance', 'purchase']"
+4551,['bmw'],['type']
+4552,"['infiniti', 'bmw', 'polestar', 'acura', 'lexus']","['comfort', 'type', 'performance']"
+4553,"['polestar', 'audi', 'bmw', 'cadillac', 'infiniti']",['purchase']
+4554,['bmw'],"['type', 'performance', 'car parts']"
+4555,['bmw'],['purchase']
+4556,"['infiniti', 'bmw', 'acura']",['performance']
+4557,"['infiniti', 'acura', 'lexus', 'bmw']","['purchase', 'performance']"
+4558,"['bmw', 'acura', 'infiniti', 'polestar', 'audi']","['purchase', 'performance', 'car parts']"
+4559,"['bmw', 'acura', 'infiniti', 'polestar', 'nissan', 'audi', 'lexus']","['type', 'car parts', 'performance']"
+4560,"['bmw', 'nissan']","['performance', 'type']"
+4562,"['cadillac', 'toyota', 'honda', 'acura', 'lexus', 'bmw']","['purchase', 'performance']"
+4563,['bmw'],['purchase']
+4565,"['cadillac', 'audi', 'bmw']",['performance']
+4568,"['infiniti', 'acura', 'bmw']","['type', 'purchase']"
+4569,['audi'],['purchase']
+4572,['bmw'],['purchase']
+4574,"['cadillac', 'bmw', 'lexus', 'polestar', 'toyota', 'honda']",['performance']
+4575,"['polestar', 'audi', 'honda']","['comfort', 'performance']"
+4576,"['bmw', 'toyota', 'infiniti', 'acura', 'honda']","['car parts', 'performance', 'purchase', 'comfort', 'type']"
+4577,['cadillac'],"['car parts', 'purchase']"
+4578,"['polestar', 'bmw']","['purchase', 'comfort', 'performance']"
+4579,['toyota'],"['performance', 'comfort']"
+4580,"['cadillac', 'bmw', 'audi', 'infiniti', 'acura', 'polestar']","['car parts', 'type']"
+4582,"['honda', 'toyota', 'bmw']",['purchase']
+4583,"['audi', 'infiniti']",['performance']
+4585,"['bmw', 'nissan']",['car parts']
+4587,"['audi', 'honda']","['purchase', 'car parts', 'comfort']"
+4591,"['honda', 'acura', 'infiniti', 'bmw']","['performance', 'interior', 'comfort', 'car parts', 'purchase']"
+4593,"['infiniti', 'bmw']",['type']
+4594,"['infiniti', 'bmw', 'acura']",['purchase']
+4598,['audi'],"['safety', 'car parts']"
+4600,"['infiniti', 'nissan', 'lexus']","['type', 'comfort', 'performance']"
+4602,"['infiniti', 'bmw']",['purchase']
+4603,"['infiniti', 'bmw', 'lexus', 'acura']",['performance']
+4604,"['infiniti', 'bmw']",['purchase']
+4607,"['infiniti', 'bmw', 'audi']",['performance']
+4608,"['infiniti', 'audi']",['purchase']
+4616,['audi'],"['comfort', 'car parts', 'purchase']"
+4617,"['audi', 'toyota']",['performance']
+4620,['audi'],['purchase']
+4623,"['polestar', 'audi', 'cadillac']",['performance']
+4625,"['cadillac', 'audi']",['performance']
+4627,"['audi', 'acura', 'bmw']","['performance', 'comfort']"
+4629,"['audi', 'nissan', 'bmw']","['performance', 'type']"
+4631,['audi'],['type']
+4632,"['bmw', 'audi']",['comfort']
+4633,"['audi', 'bmw']","['performance', 'type', 'comfort']"
+4634,"['infiniti', 'honda', 'bmw']","['performance', 'car parts', 'type']"
+4635,"['audi', 'acura']","['type', 'performance', 'purchase', 'comfort']"
+4638,"['nissan', 'bmw', 'audi']","['type', 'performance', 'car parts']"
+4640,['audi'],['performance']
+4641,"['bmw', 'audi']",['car parts']
+4642,['audi'],"['purchase', 'performance', 'type', 'car parts']"
+4645,['audi'],"['performance', 'purchase']"
+4647,['audi'],['car parts']
+4649,['bmw'],"['type', 'performance']"
+4650,['bmw'],['type']
+4651,['bmw'],"['type', 'comfort']"
+4652,"['audi', 'bmw']","['type', 'performance']"
+4654,['bmw'],"['car parts', 'performance', 'purchase', 'comfort']"
+4655,"['bmw', 'polestar']","['performance', 'interior', 'car parts', 'comfort']"
+4662,['bmw'],"['comfort', 'purchase', 'type']"
+4666,"['mercedes', 'audi', 'bmw', 'toyota']","['car parts', 'comfort', 'performance']"
+4667,"['polestar', 'bmw']","['type', 'performance', 'comfort']"
+4669,['bmw'],"['comfort', 'performance']"
+4671,"['bmw', 'audi', 'cadillac', 'lexus']","['car parts', 'purchase']"
+4674,"['polestar', 'infiniti']","['performance', 'safety', 'type', 'purchase']"
+4675,"['bmw', 'cadillac']",['comfort']
+4676,"['bmw', 'audi']","['type', 'comfort']"
+4677,"['bmw', 'audi']",['purchase']
+4679,['bmw'],"['car parts', 'type', 'comfort']"
+4684,"['honda', 'audi', 'acura', 'cadillac']","['performance', 'comfort', 'car parts', 'purchase']"
+4690,"['honda', 'acura']","['car parts', 'type']"
+4691,"['honda', 'acura']",['purchase']
+4695,"['honda', 'chevrolet']","['comfort', 'performance', 'purchase', 'type']"
+4697,"['honda', 'acura', 'lexus', 'infiniti', 'nissan']","['type', 'car parts']"
+4698,['honda'],['purchase']
+4700,['honda'],"['purchase', 'performance', 'type']"
+4702,"['honda', 'acura', 'bmw']","['comfort', 'purchase', 'performance']"
+4706,"['honda', 'acura', 'polestar']","['performance', 'purchase']"
+4707,"['honda', 'acura', 'lexus', 'toyota', 'infiniti', 'nissan', 'audi', 'bmw']","['performance', 'type', 'purchase']"
+4710,['honda'],"['car parts', 'performance']"
+4711,"['honda', 'nissan', 'bmw']",['type']
+4713,"['lexus', 'acura', 'bmw']","['purchase', 'type', 'performance']"
+4717,"['infiniti', 'acura']",['performance']
+4724,['bmw'],['comfort']
+4728,['honda'],['purchase']
+4729,"['bmw', 'acura']","['purchase', 'type']"
+4730,"['infiniti', 'acura', 'audi', 'bmw', 'honda']","['car parts', 'purchase']"
+4736,['infiniti'],['purchase']
+4738,"['bmw', 'polestar', 'audi', 'acura', 'infiniti', 'lexus']","['performance', 'car parts', 'type']"
+4744,['bmw'],"['performance', 'type']"
+4746,"['bmw', 'toyota']",['purchase']
+4747,"['bmw', 'toyota']",['purchase']
+4749,['polestar'],['purchase']
+4750,['bmw'],['type']
+4752,"['nissan', 'infiniti']",['type']
+4754,"['bmw', 'toyota']",['purchase']
+4758,"['bmw', 'polestar']",['purchase']
+4768,"['bmw', 'toyota']",['purchase']
+4772,"['bmw', 'toyota']",['purchase']
+4775,"['bmw', 'toyota']","['purchase', 'performance', 'type']"
+4776,"['bmw', 'toyota']",['purchase']
+4777,"['toyota', 'bmw', 'audi', 'honda']","['performance', 'type']"
+4780,['toyota'],['performance']
+4783,"['toyota', 'bmw']","['performance', 'purchase']"
+4788,['bmw'],"['purchase', 'car parts', 'performance', 'type']"
+4789,['bmw'],['performance']
+4794,['bmw'],['type']
+4795,['bmw'],['purchase']
+4796,['bmw'],['purchase']
+4797,['acura'],['purchase']
+4820,['acura'],['type']
+4825,"['acura', 'bmw', 'nissan']","['performance', 'type']"
+4831,['nissan'],['purchase']
+4834,['nissan'],"['performance', 'purchase']"
+4836,['nissan'],"['purchase', 'performance', 'type']"
+4838,['nissan'],['performance']
+4840,['nissan'],"['car parts', 'performance', 'purchase']"
+4842,"['nissan', 'honda']",['performance']
+4843,"['nissan', 'bmw', 'acura']","['type', 'car parts', 'comfort', 'performance', 'purchase']"
+4844,['nissan'],"['car parts', 'purchase']"
+4846,['honda'],"['performance', 'car parts']"
+4853,['polestar'],"['performance', 'purchase']"
+4854,"['cadillac', 'lexus']","['purchase', 'performance']"
+4855,"['honda', 'lexus', 'polestar']","['performance', 'purchase', 'car parts']"
+4863,"['acura', 'honda']",['car parts']
+4865,"['honda', 'acura']",['performance']
+4873,"['acura', 'bmw']","['purchase', 'performance']"
+4874,"['polestar', 'bmw']","['performance', 'purchase']"
+4875,['bmw'],"['performance', 'comfort']"
+4877,['bmw'],['purchase']
+4878,['infiniti'],"['performance', 'purchase', 'car parts']"
+4880,['honda'],"['performance', 'purchase']"
+4882,"['bmw', 'infiniti', 'nissan']","['car parts', 'purchase', 'type']"
+4884,"['acura', 'honda', 'polestar']","['performance', 'interior']"
+4885,"['bmw', 'nissan', 'infiniti']","['performance', 'comfort']"
+4886,"['bmw', 'acura', 'infiniti', 'nissan']",['comfort']
+4887,"['acura', 'honda']","['performance', 'comfort']"
+4890,"['honda', 'cadillac']",['purchase']
+4895,['bmw'],"['car parts', 'performance']"
+4896,['bmw'],['performance']
+4897,['bmw'],"['car parts', 'purchase']"
+4900,['bmw'],"['performance', 'comfort', 'car parts']"
+4901,['bmw'],"['comfort', 'performance']"
+4902,['bmw'],"['performance', 'purchase']"
+4905,"['bmw', 'acura', 'polestar']","['performance', 'purchase']"
+4909,['bmw'],"['purchase', 'performance']"
+4912,['bmw'],"['purchase', 'car parts']"
+4913,['bmw'],['purchase']
+4918,['bmw'],"['purchase', 'type']"
+4919,['polestar'],['purchase']
+4920,['bmw'],"['purchase', 'performance']"
+4921,['bmw'],"['purchase', 'performance']"
+4922,['bmw'],"['purchase', 'type']"
+4924,['bmw'],['purchase']
+4926,['bmw'],['purchase']
+4927,['bmw'],"['purchase', 'performance']"
+4929,['bmw'],['performance']
+4930,['bmw'],['purchase']
+4931,"['acura', 'bmw']",['purchase']
+4933,"['bmw', 'audi']",['performance']
+4935,['bmw'],"['type', 'performance']"
+4936,"['bmw', 'volkswagen']","['car parts', 'comfort', 'purchase', 'performance']"
+4938,['bmw'],"['performance', 'type']"
+4941,"['bmw', 'audi']","['type', 'car parts']"
+4943,"['bmw', 'toyota']",['purchase']
+4944,"['bmw', 'honda', 'polestar']","['performance', 'purchase']"
+4945,"['bmw', 'toyota', 'nissan']",['purchase']
+4950,"['bmw', 'honda']","['car parts', 'purchase']"
+4952,['bmw'],['type']
+4954,['bmw'],"['performance', 'comfort']"
+4956,"['bmw', 'nissan']",['comfort']
+4959,['infiniti'],['performance']
+4960,"['infiniti', 'bmw']",['performance']
+4964,['polestar'],['performance']
+4967,['bmw'],['performance']
+4969,['bmw'],"['purchase', 'performance']"
+4970,"['honda', 'acura']","['performance', 'purchase']"
+4971,"['honda', 'acura']",['performance']
+4974,['bmw'],['purchase']
+4975,"['bmw', 'audi']",['performance']
+4977,"['bmw', 'audi']",['performance']
+4980,"['bmw', 'polestar', 'honda']","['performance', 'comfort']"
+4982,['bmw'],['purchase']
+4983,['bmw'],['purchase']
+4987,['bmw'],"['car parts', 'comfort']"
+4989,"['acura', 'honda']",['performance']
+4995,['polestar'],['performance']
+4997,"['bmw', 'audi']","['performance', 'car parts']"
+4999,['toyota'],['purchase']
+5000,"['audi', 'bmw']","['performance', 'purchase', 'comfort', 'type']"
+5003,"['toyota', 'lexus']",['type']
+5006,"['bmw', 'audi']","['performance', 'purchase', 'type', 'car parts']"
+5007,"['bmw', 'toyota']",['performance']
+5009,"['bmw', 'audi']",['performance']
+5010,"['toyota', 'nissan']","['performance', 'purchase']"
+5011,['audi'],"['performance', 'type']"
+5012,"['toyota', 'bmw']","['purchase', 'performance', 'comfort']"
+5014,['bmw'],"['purchase', 'performance', 'type', 'car parts']"
+5015,"['lexus', 'polestar']","['performance', 'purchase']"
+5022,['bmw'],"['purchase', 'performance']"
+5026,['honda'],['type']
+5030,['bmw'],['purchase']
+5034,['bmw'],['performance']
+5039,['audi'],"['performance', 'type']"
+5044,['bmw'],['performance']
+5045,['bmw'],"['type', 'performance']"
+5046,['bmw'],['type']
+5053,"['polestar', 'bmw']","['performance', 'purchase']"
+5054,"['polestar', 'bmw']","['performance', 'purchase', 'comfort']"
+5058,"['bmw', 'acura']","['purchase', 'car parts', 'performance']"
+5060,['polestar'],"['performance', 'purchase']"
+5061,"['infiniti', 'nissan', 'bmw']","['type', 'performance', 'car parts']"
+5062,"['honda', 'lexus', 'bmw', 'acura']","['purchase', 'type']"
+5064,['bmw'],['performance']
+5065,['bmw'],"['purchase', 'performance']"
+5066,['bmw'],['performance']
+5067,['bmw'],"['purchase', 'performance']"
+5068,['bmw'],['purchase']
+5069,['bmw'],['performance']
+5074,['bmw'],['purchase']
+5075,['bmw'],['performance']
+5077,['bmw'],['performance']
+5078,"['bmw', 'honda']",['purchase']
+5079,"['bmw', 'infiniti', 'cadillac', 'acura']",['performance']
+5083,['acura'],"['type', 'performance']"
+5086,"['acura', 'nissan']","['performance', 'type']"
+5087,['honda'],['performance']
+5089,['bmw'],['car parts']
+5092,"['infiniti', 'bmw']",['performance']
+5094,"['infiniti', 'polestar']","['car parts', 'performance', 'type', 'purchase']"
+5095,['infiniti'],"['performance', 'purchase']"
+5096,"['infiniti', 'audi']",['purchase']
+5097,"['infiniti', 'bmw']",['performance']
+5098,"['audi', 'bmw', 'infiniti', 'acura']","['car parts', 'type', 'performance', 'purchase']"
+5099,['bmw'],['type']
+5101,"['bmw', 'infiniti', 'acura', 'audi']","['performance', 'purchase']"
+5102,['bmw'],"['purchase', 'comfort']"
+5103,"['infiniti', 'bmw', 'audi']",['purchase']
+5104,['bmw'],"['purchase', 'car parts']"
+5107,"['infiniti', 'polestar']","['car parts', 'type']"
+5112,"['audi', 'bmw']",['purchase']
+5114,['honda'],['purchase']
+5119,"['acura', 'lexus', 'infiniti', 'audi', 'bmw']",['performance']
+5121,['bmw'],"['comfort', 'performance', 'purchase', 'type', 'car parts']"
+5122,['bmw'],"['comfort', 'type', 'purchase']"
+5125,"['bmw', 'cadillac', 'toyota']",['purchase']
+5130,"['nissan', 'audi', 'infiniti', 'lexus', 'toyota', 'bmw']",['purchase']
+5133,['infiniti'],"['type', 'purchase']"
+5138,"['audi', 'bmw']","['type', 'comfort', 'car parts']"
+5143,"['bmw', 'polestar']","['comfort', 'purchase']"
+5148,['bmw'],"['purchase', 'type']"
+5152,"['audi', 'bmw']",['purchase']
+5155,"['toyota', 'honda']",['performance']
+5158,"['toyota', 'acura', 'polestar', 'bmw', 'audi', 'lexus', 'infiniti']","['interior', 'comfort', 'performance', 'car parts', 'type']"
+5159,['nissan'],"['performance', 'type']"
+5161,['nissan'],['comfort']
+5162,['nissan'],['car parts']
+5163,['nissan'],"['comfort', 'purchase']"
+5164,"['toyota', 'honda']","['purchase', 'performance']"
+5166,"['toyota', 'lexus']","['performance', 'type']"
+5169,"['lexus', 'toyota']",['purchase']
+5172,"['polestar', 'audi']","['performance', 'comfort']"
+5176,"['acura', 'audi', 'bmw', 'toyota', 'honda']","['purchase', 'type', 'car parts']"
+5177,"['acura', 'infiniti']",['type']
+5178,"['acura', 'infiniti', 'bmw']","['performance', 'purchase']"
+5179,"['acura', 'bmw']",['performance']
+5180,"['bmw', 'audi', 'infiniti', 'honda', 'acura']",['purchase']
+5181,"['acura', 'honda']","['type', 'car parts']"
+5184,"['honda', 'acura']",['purchase']
+5186,"['infiniti', 'bmw']","['car parts', 'purchase']"
+5188,"['polestar', 'bmw']",['purchase']
+5189,['bmw'],['car parts']
+5190,"['acura', 'polestar', 'honda']","['purchase', 'performance']"
+5191,['infiniti'],"['purchase', 'type']"
+5192,['honda'],"['purchase', 'performance']"
+5193,['bmw'],['car parts']
+5194,"['bmw', 'nissan']","['car parts', 'performance']"
+5196,['bmw'],"['type', 'purchase']"
+5200,"['nissan', 'lexus', 'honda', 'acura']","['purchase', 'type']"
+5202,"['honda', 'acura']",['purchase']
+5204,"['honda', 'acura']",['purchase']
+5205,"['toyota', 'lexus']",['purchase']
+5206,"['honda', 'acura', 'audi']","['purchase', 'type']"
+5209,"['audi', 'bmw', 'honda', 'acura', 'toyota', 'nissan', 'infiniti']",['purchase']
+5210,['bmw'],['type']
+5211,['audi'],['purchase']
+5212,['cadillac'],['type']
+5215,['bmw'],['performance']
+5218,"['toyota', 'lexus']",['purchase']
+5219,"['toyota', 'lexus']",['purchase']
+5220,['cadillac'],['performance']
+5221,['cadillac'],"['performance', 'car parts', 'purchase']"
+5222,"['toyota', 'honda']",['purchase']
+5225,"['toyota', 'lexus']",['purchase']
+5226,"['toyota', 'lexus']",['purchase']
+5228,"['lexus', 'toyota']",['purchase']
+5232,"['acura', 'audi', 'infiniti', 'bmw', 'cadillac', 'honda']","['type', 'performance']"
+5233,['infiniti'],['performance']
+5234,['cadillac'],['performance']
+5235,"['cadillac', 'nissan']","['interior', 'performance']"
+5236,['cadillac'],"['type', 'performance']"
+5238,['cadillac'],['performance']
+5248,['cadillac'],"['performance', 'type']"
+5249,['acura'],"['performance', 'purchase']"
+5250,['honda'],['performance']
+5252,"['bmw', 'polestar']","['performance', 'purchase']"
+5253,['acura'],"['type', 'purchase']"
+5254,['honda'],"['performance', 'purchase']"
+5256,"['cadillac', 'polestar']","['performance', 'type', 'purchase', 'car parts']"
+5258,['honda'],"['car parts', 'performance']"
+5260,['bmw'],['performance']
+5264,['bmw'],['performance']
+5271,['bmw'],['type']
+5276,['bmw'],"['purchase', 'performance', 'type']"
+5280,['bmw'],['comfort']
+5282,['bmw'],['purchase']
+5283,['bmw'],['purchase']
+5290,['bmw'],['purchase']
+5291,['bmw'],['purchase']
+5292,"['bmw', 'acura']","['purchase', 'type', 'performance']"
+5293,['bmw'],['purchase']
+5294,"['bmw', 'honda', 'acura']",['purchase']
+5295,['bmw'],"['performance', 'purchase']"
+5299,"['lexus', 'bmw']","['performance', 'type']"
+5305,['bmw'],['purchase']
+5306,['bmw'],"['purchase', 'type', 'performance']"
+5310,['bmw'],"['purchase', 'performance']"
+5318,['bmw'],"['purchase', 'performance']"
+5320,['polestar'],['purchase']
+5324,"['audi', 'acura']",['performance']
+5325,['honda'],"['performance', 'comfort', 'car parts']"
+5326,['polestar'],"['performance', 'purchase', 'type']"
+5330,"['bmw', 'audi']",['performance']
+5332,"['bmw', 'polestar']","['type', 'purchase', 'car parts', 'comfort', 'performance']"
+5333,['bmw'],"['purchase', 'performance']"
+5336,['nissan'],['purchase']
+5337,"['acura', 'polestar', 'bmw', 'honda']","['type', 'performance', 'car parts', 'purchase']"
+5340,['cadillac'],['performance']
+5341,['cadillac'],['performance']
+5343,['bmw'],['type']
+5345,['bmw'],"['performance', 'purchase', 'car parts']"
+5346,"['bmw', 'acura', 'audi']","['performance', 'purchase', 'type']"
+5357,['bmw'],['performance']
+5358,['bmw'],['performance']
+5367,['bmw'],"['performance', 'purchase']"
+5380,"['bmw', 'audi']",['purchase']
+5382,"['honda', 'toyota', 'acura', 'nissan']",['performance']
+5385,['bmw'],"['type', 'performance']"
+5389,"['polestar', 'bmw', 'acura']",['type']
+5390,['acura'],"['performance', 'comfort']"
+5393,['honda'],['car parts']
+5396,"['bmw', 'acura', 'toyota', 'nissan', 'polestar']","['performance', 'purchase', 'comfort', 'car parts']"
+5397,"['bmw', 'acura']","['car parts', 'comfort']"
+5398,"['bmw', 'acura']","['type', 'purchase']"
+5399,['bmw'],['purchase']
+5403,"['bmw', 'cadillac']",['performance']
+5410,"['acura', 'bmw']",['performance']
+5413,"['infiniti', 'cadillac', 'bmw']","['performance', 'type', 'purchase', 'comfort', 'car parts']"
+5421,"['lexus', 'toyota', 'bmw', 'nissan']","['car parts', 'purchase', 'performance', 'comfort', 'type']"
+5422,['lexus'],['comfort']
+5423,['lexus'],"['comfort', 'purchase']"
+5424,"['acura', 'lexus']","['car parts', 'purchase', 'performance']"
+5427,"['lexus', 'toyota']","['comfort', 'performance', 'purchase']"
+5428,"['polestar', 'toyota', 'lexus']","['comfort', 'car parts', 'performance']"
+5429,"['lexus', 'bmw', 'toyota']","['comfort', 'purchase']"
+5432,"['infiniti', 'lexus', 'toyota', 'bmw']",['comfort']
+5433,['lexus'],['comfort']
+5434,"['lexus', 'infiniti', 'toyota']",['comfort']
+5435,"['audi', 'lexus', 'bmw']","['purchase', 'comfort', 'type', 'performance']"
+5438,['lexus'],['comfort']
+5439,"['toyota', 'lexus']",['purchase']
+5441,"['toyota', 'lexus', 'audi', 'bmw']",['type']
+5442,"['toyota', 'lexus']",['purchase']
+5444,"['toyota', 'lexus']",['comfort']
+5445,['lexus'],['comfort']
+5448,"['lexus', 'toyota']",['purchase']
+5450,"['lexus', 'toyota']",['purchase']
+5451,"['audi', 'lexus', 'infiniti']","['comfort', 'car parts', 'type', 'performance', 'purchase']"
+5452,"['toyota', 'lexus']",['purchase']
+5454,['lexus'],['comfort']
+5458,['lexus'],"['purchase', 'performance', 'type']"
+5460,['bmw'],"['performance', 'purchase']"
+5465,['bmw'],"['type', 'car parts']"
+5466,['bmw'],['type']
+5467,['audi'],"['type', 'performance', 'car parts']"
+5468,['audi'],"['type', 'performance', 'car parts']"
+5469,"['polestar', 'bmw', 'lexus', 'audi']","['performance', 'purchase']"
+5470,"['bmw', 'toyota', 'honda']","['purchase', 'type']"
+5471,['bmw'],['performance']
+5474,['bmw'],"['purchase', 'car parts']"
+5475,"['bmw', 'acura', 'lexus', 'audi']",['purchase']
+5476,['audi'],"['performance', 'purchase']"
+5479,"['bmw', 'polestar', 'acura']","['type', 'car parts', 'purchase', 'comfort']"
+5480,"['infiniti', 'bmw', 'lexus', 'toyota']",['purchase']
+5481,['lexus'],['purchase']
+5482,['toyota'],"['comfort', 'type']"
+5484,['bmw'],['purchase']
+5486,['toyota'],['type']
+5491,"['honda', 'lexus']",['comfort']
+5499,"['audi', 'polestar']","['performance', 'purchase', 'car parts']"
